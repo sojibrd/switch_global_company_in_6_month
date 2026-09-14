@@ -221,7 +221,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 ### দিন ০৫৮ · বেতন — উৎস ১
 
 - [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ বেতনের তথ্য, উৎস ১ — big tech মানের কোম্পানিতে রিমোটে কাজ করা একজনকে জিজ্ঞেস: আপনার অভিজ্ঞতায় কোন level, কত, EOR নাকি contract; তারপর `00-rules.md`-এর ⏳ সীমা বসাতে পারলে বসান 🧠 (Trust this one person)
+- [ ] ২৫′ বেতনের তথ্য, উৎস ১ — big tech মানের কোম্পানিতে রিমোটে কাজ করা একজনকে জিজ্ঞেস: আপনার অভিজ্ঞতায় কোন level, কত, EOR নাকি contract; তারপর দেখুন $১,৭০০-এর সীমা তোলার মতো তথ্য আছে কি না — তোলা যায়, নামানো নয় 🧠 (Trust this one person)
 - [ ] ১৫′ ইংরেজি — *"What level is this role, and what's the range?"*
 
 > **দিন শেষে:** একজনের উত্তর লেখা?

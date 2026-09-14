@@ -34,10 +34,10 @@
 ### দিন ০৯৪ · level আর বেতন
 
 - [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ বেতনের তথ্য, উৎস ২ ও ৩ — বেতন লেখা থাকে এমন কয়েকটা রিমোট job post, আর একজন recruiter বা ঐ কোম্পানিতে কাজ করা কেউ; দিন ০৫৮-এর উৎসের পাশে এক টেবিলে। `00-rules.md`-এর ⏳ সীমা এখনো ফাঁকা থাকলে **আজ বসান** 🧠 (Trust this one person · Stakes & Rewards)
+- [ ] ২৫′ বেতনের তথ্য, উৎস ২ ও ৩ — বেতন লেখা থাকে এমন কয়েকটা রিমোট job post, আর একজন recruiter বা ঐ কোম্পানিতে কাজ করা কেউ; দিন ০৫৮-এর উৎসের পাশে এক টেবিলে। তিন উৎসই $১,৭০০-এর অনেক উপরে হলে সীমা তুলুন — **আজই, offer-এর আগে** 🧠 (Trust this one person · Stakes & Rewards)
 - [ ] ১৫′ ইংরেজি — *"What level is this role, and what's the budgeted range?"* — পাঁচবার
 
-> **দিন শেষে:** offer-এর নিচের সীমা লেখা?
+> **দিন শেষে:** তিন উৎসের টেবিল, আর সীমা থাকবে না উঠবে — লেখা?
 
 ### দিন ০৯৫ · file upload UI
 

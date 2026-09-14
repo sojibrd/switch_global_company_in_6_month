@@ -163,7 +163,7 @@
 - [ ] ২৫′ **রিমোট offer-এর চেকলিস্ট** — কোন level · employee (EOR) নাকি contract · কোন মুদ্রায় আর কোন পথে টাকা (দিন ০১৩-এর ব্যবস্থার সাথে মেলে?) · ঢাকার সময়ে কখন কাজ (রাত ১১টার সীমা) · ছুটি আর insurance · notice; তারপর `00-rules.md`-এর offer-এর সীমা আবার পড়ুন — [`after-getting-response/06-offer-and-resign.md`](../../brainstorming/after-getting-response/06-offer-and-resign.md) মিলিয়ে 🧠 (Everything is a game · Stakes & Rewards)
 - [ ] ১৫′ ইংরেজি — *"Thank you, I'm really excited. Could you send the offer in writing? I'd like a couple of days to review it."*
 
-> **দিন শেষে:** চেকলিস্ট লেখা, আর সীমার সংখ্যা বসানো?
+> **দিন শেষে:** চেকলিস্ট লেখা, আর সীমাটা আবার পড়া?
 
 ### দিন ১৭১ · চলমান কোম্পানির জন্য হালনাগাদ
 

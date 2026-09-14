@@ -31,7 +31,7 @@
 
 | ফাইল | দিন | Gist |
 |---|---|---|
-| [docs/00-rules.md](docs/00-rules.md) | — | লক্ষ্য (১০ আবেদন, ৩ process; সীমা ⏳), কেন ১০, সত্যের উৎস, বাজারের দুই শর্ত (big tech মানের loop + বাংলাদেশ থেকে রিমোট), চার রাউন্ড, সপ্তাহের ছন্দ, DSA-র তিন সাইট (⏳ সময়ের অমিল), design-এর বসা আর আট সিস্টেম, আবেদন ও interview-এর নিয়ম, Dip-এর নিয়ম, যা করবেন না, টাকা, দিন ১৮০-র পরে |
+| [docs/00-rules.md](docs/00-rules.md) | — | লক্ষ্য (১০ আবেদন, ৩ process; সীমা $১,৭০০), কেন ১০, সত্যের উৎস, বাজারের দুই শর্ত (big tech মানের loop + বাংলাদেশ থেকে রিমোট), চার রাউন্ড, সপ্তাহের ছন্দ, DSA-র তিন সাইট (দিনে ৩০′-এ থামে), design-এর বসা আর আট সিস্টেম, আবেদন ও interview-এর নিয়ম, Dip-এর নিয়ম, যা করবেন না, টাকা, দিন ১৮০-র পরে |
 | [docs/01-foundation.md](docs/01-foundation.md) | ০০১–০৩০ | portfolio, সংখ্যাসহ সিভি, যাচাই করা ১৫টা নাম, রেফারেলের মানচিত্র, টাকার ব্যবস্থা, design আর frontend-এর ছাঁচের কার্ড, ৬ STAR। আবেদন দিন ০১৪ ও ০২৮-এ |
 | [docs/02-design-template.md](docs/02-design-template.md) | ০৩১–০৬০ | `srdtube`-এর ইংরেজি design doc, URL shortener · rate limiter · srdtube ৪৫′-এ মুখে, scoping, চারটা ধারণা ডক ছাড়া, story → signal; রিমোট DSA শুরু দিন ০৫০-এ। শেষে: ৪টা আবেদন |
 | [docs/03-systems.md](docs/03-systems.md) | ০৬১–০৯০ · dip | chat, news feed, file storage — লেখা আর ৪৫′-এ বলা; infinite feed আর autocomplete UI; ফানেলের প্রথম দেখা। শেষে: ৬টা আবেদন |
