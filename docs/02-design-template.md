@@ -19,7 +19,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 ### দিন ০৩২ · state কোথায়
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ frontend design-এর মূল প্রশ্ন — **কোন state কোথায়:** component, service/store, নাকি URL; তিনটার প্রতিটায় নিজের কাজ থেকে একটা উদাহরণ, আর ভুল জায়গায় রাখলে কী ভাঙে 🔁 🧠 (Feynman · Concepts vs Facts)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: কোন state কোথায়; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — উদাহরণ তিনটা জোরে
 
 > **দিন শেষে:** তিনটা জায়গার তিনটা উদাহরণ লেখা?
@@ -41,7 +41,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 ### দিন ০৩৫ · design doc — srdtube
 
 - [ ] ১০′ সপ্তাহের হিসাব
-- [ ] ৫০′ ⚑ `srdtube`-এর **design doc, ইংরেজিতে, ছয় সেকশন** — কী বানিয়েছি → কতজন ব্যবহারকারী ধরে (quota থেকে হিসাব) → সিদ্ধান্ত (৫০-id batching, auto-pagination বন্ধ) → যা বাদ দিলাম → গঠন → কোথায় ভাঙবে; বুলেটে, এক বসায় 🧠 (Active learning · Trunk based knowledge)
+- [ ] ৫০′ ⚑ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: `srdtube`-এর design doc, ইংরেজিতে, ছয় সেকশন; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 
 > **দিন শেষে:** ছয় সেকশনই লেখা?
 
@@ -56,7 +56,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 ### দিন ০৩৭ · স্কেলের অনুমান — chat
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ পরের ব্লকের একটা সিস্টেম — **chat**-এর স্কেলের অনুমান আগে থেকে: কতজন একসাথে online, দিনে কত বার্তা, কত জায়গা; সংখ্যা নিজে ধরে নিন আর লিখে রাখুন কেন 🔁 🧠 (Test yourself)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: chat-এর স্কেলের অনুমান; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — হিসাবটা জোরে, সংখ্যাসহ
 
 > **দিন শেষে:** chat-এর অনুমান লেখা?
@@ -72,7 +72,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 ### দিন ০৩৯ · news feed UI, মুখে
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ *"Design a news feed UI"* — ছয় ধাপে ইংরেজিতে জোরে: চাহিদা → component → state → ডেটা আনা ও cache (পাতা ধরে আনা) → performance (লম্বা তালিকা) → accessibility; কাগজে আঁকতে আঁকতে 🔁 🧠 (Chunk the subject · The power of senses)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: news feed UI, মুখে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — কোন ধাপে সবচেয়ে কম বলার ছিল
 
 > **দিন শেষে:** ছয় ধাপের সবগুলোয় অন্তত দুটো কথা?
@@ -87,7 +87,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 ### দিন ০৪১ · URL shortener, ৪৫′
 
-- [ ] ৪৫′ ⚑ **URL shortener — ৪৫′ টাইমারে, মুখে, ইংরেজিতে** — লেখা বন্ধ, কাগজে আঁকতে আঁকতে; functional → reliable → scalable, প্রতিটা ধাপে কেন; ফোনে রেকর্ড। আগে থেকে জানা জিনিস, তাই এখানে পরীক্ষা জ্ঞানের নয় — বলার 🔁 🧠 (Test yourself · Deep work)
+- [ ] ৪৫′ ⚑ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: URL shortener — ৪৫′-এ মুখে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — যেখানে চুপ হলেন, সেই বাক্যটা এবার পরিষ্কার করে 🧠 (Feedback)
 
 > **দিন শেষে:** ৪৫ মিনিটে তিন লেভেল পর্যন্ত গেছে?
@@ -111,7 +111,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 ### দিন ০৪৪ · কোথায় ভাঙবে
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ URL shortener রেকর্ডিং শুনে তিনটা জিনিস — কোথায় চুপ হলেন, scope কি শুরুতে বলেছিলেন, "কোথায় ভাঙবে" নিজে থেকে এসেছে কি; সবচেয়ে দুর্বলটা এক লাইনে 🧠 (Feedback)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: URL shortener-এর রেকর্ডিং থেকে তিনটা জিনিস; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — *"What happens if traffic grows 10×?"* — সহজ উত্তর আগে
 
 > **দিন শেষে:** সবচেয়ে দুর্বল জায়গাটা লেখা?
@@ -127,7 +127,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 ### দিন ০৪৬ · modal-এর accessibility
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ **Modal, focus trap সহ** — খুললে focus ভেতরে, Tab ঘোরে ভেতরেই, Esc-এ বন্ধ, বন্ধ হলে focus আগের বোতামে; ছোট কোডে, টাইমার ২৫′ 🔁 🧠 (Deliberate practice · Parkinson's law)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: modal-এর accessibility; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — কেন focus ফেরাতে হয়, ৩০ সেকেন্ডে
 
 > **দিন শেষে:** keyboard দিয়ে সব কাজ করে?
@@ -142,15 +142,14 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 ### দিন ০৪৮ · rate limiter, ৪৫′
 
-- [ ] ৪৫′ **rate limiter — ৪৫′ টাইমারে, মুখে, ইংরেজিতে** — প্রশ্ন আর scope আগে, তারপর সহজ কাজ-করা ডিজাইন, তারপর ধাপে ধাপে; রেকর্ড 🔁 🧠 (Test yourself · Deep work)
-- [ ] ১৫′ রেকর্ডিং শুনে তিনটা জিনিস — চুপ, scope, "ভাঙবে"; দিন ০৪৪-এর দুর্বলতাটা এবার ঠিক হলো কি 🧠 (Feedback · Deliberate practice)
+- [ ] ৬০′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: rate limiter — ৪৫′-এ মুখে, তারপর রেকর্ডিং; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 
 > **দিন শেষে:** আগের দুর্বলতাটা এবার কম?
 
 ### দিন ০৪৯ · srdtube, ৪৫′
 
 - [ ] ১০′ সপ্তাহের হিসাব — আজ ২০২৬-১১-০১ বা তার পরে হলে সিভির সারাংশে "nearly 4 years" → **"4 years"**
-- [ ] ৪৫′ `srdtube` — **৪৫′ টাইমারে, মুখে,** নিজের design doc বন্ধ রেখে; রেকর্ড। নিজের সিস্টেম, তাই follow-up-এ গভীরে যাওয়ার সুযোগ — ওটাই নিন 🔁 🧠 (Test yourself · Deep work)
+- [ ] ৪৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: `srdtube` — ৪৫′-এ মুখে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 
 > **দিন শেষে:** doc না দেখে ছয় সেকশনই বলা গেছে?
 
@@ -165,7 +164,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 ### দিন ০৫১ · যা বাদ দিলাম
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ **scoping** — URL shortener, rate limiter, `srdtube`: প্রতিটায় ৩টা জিনিস যা ইচ্ছাকৃতভাবে বাদ, আর কেন; interviewer সবচেয়ে বেশি নম্বর দেন যখন আপনি নিজে থেকে বলেন কী আলোচনার বাইরে 🔁 🧠 (Pareto)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: তিন সিস্টেমে যা বাদ দিলাম; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — *"For this interview I'd leave out… because…"* — তিনবার
 
 > **দিন শেষে:** তিন সিস্টেমে ৯টা "বাদ" লেখা?
@@ -181,7 +180,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 ### দিন ০৫৩ · news feed UI, আবার
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ news feed UI আবার, এবার দিন ০৩৯-এর দুর্বল ধাপ ধরে — like চাপলে সঙ্গে সঙ্গে দেখানো (optimistic update) আর ব্যর্থ হলে ফেরানো; ২০′ টাইমার 🔁 🧠 (Deliberate practice · Parkinson's law)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: news feed UI আবার — optimistic update; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — optimistic update কেন আর কখন নয়
 
 > **দিন শেষে:** দুর্বল ধাপটা এবার ভরা?
@@ -196,7 +195,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 ### দিন ০৫৫ · চারটা ধারণা, ডক বন্ধ
 
-- [ ] ৪৫′ `system_design`-এর concepts tracker-এর চারটা — **caching, load balancing, consistency, message queue** — প্রতিটা ইংরেজিতে ৮ লাইনে, **ডক বন্ধ করে**; আটকালে তবেই ডক খুলুন, তারপর বন্ধ করে আবার লিখুন। ২৫টা ডক পড়া ইনপুট, এটা আউটপুট 🔁 🧠 (Feynman · Test yourself)
+- [ ] ৪৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: চারটা ধারণা, ডক বন্ধ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — চারটার একটা, ঠান্ডা শুরুতে
 
 > **দিন শেষে:** চারটা ধারণা ডক ছাড়া লেখা?

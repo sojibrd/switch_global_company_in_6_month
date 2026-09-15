@@ -27,7 +27,7 @@
 ### দিন ০৬৩ · design doc — chat
 
 - [ ] ১০′ সপ্তাহের হিসাব
-- [ ] ৫০′ ⚑ **chat — design doc, ইংরেজিতে, ছয় সেকশন:** কী বানাচ্ছি (এক-এক বার্তা, group?) → স্কেলের অনুমান (দিন ০৩৭-এর সংখ্যা) → সিদ্ধান্ত (সংযোগ কীভাবে খোলা থাকে, বার্তা কোথায় জমা, পৌঁছানো নিশ্চিত কীভাবে) → যা বাদ দিলাম → গঠন → কোথায় ভাঙবে; functional আগে, তারপর reliable, তারপর scalable 🧠 (Active learning · Trunk based knowledge)
+- [ ] ৫০′ ⚑ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: chat-এর design doc, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 
 > **দিন শেষে:** ছয় সেকশনই লেখা?
 
@@ -58,7 +58,7 @@
 ### দিন ০৬৭ · infinite feed, মুখে
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ *"Design an infinite scrolling feed"* — ছয় ধাপে জোরে: কখন পরের পাতা আনবেন (IntersectionObserver), দুবার request ঠেকানো, শেষ হলে থামা, ফিরে এলে scroll-এর জায়গা, হাজার সারিতে performance 🔁 🧠 (Chunk the subject)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: infinite feed UI, মুখে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — scroll event বনাম IntersectionObserver, কেন
 
 > **দিন শেষে:** ছয় ধাপের সবগুলোয় কথা এসেছে?
@@ -73,7 +73,7 @@
 
 ### দিন ০৬৯ · chat, ৪৫′
 
-- [ ] ৪৫′ **chat — ৪৫′ টাইমারে, মুখে,** doc বন্ধ রেখে, কাগজে আঁকতে আঁকতে; রেকর্ড 🔁 🧠 (Test yourself · Deep work)
+- [ ] ৪৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: chat — ৪৫′-এ মুখে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — প্রথম দুই মিনিট আবার: প্রশ্ন আর scope, আরও ছোট করে
 
 > **দিন শেষে:** ৪৫ মিনিটে "কোথায় ভাঙবে" পর্যন্ত গেছে?
@@ -81,7 +81,7 @@
 ### দিন ০৭০ · design doc — news feed
 
 - [ ] ১০′ সপ্তাহের হিসাব
-- [ ] ৫০′ ⚑ **news feed — design doc, ইংরেজিতে, ছয় সেকশন:** কী বানাচ্ছি → স্কেলের অনুমান (কতজন, কতজনকে follow, দিনে কত পোস্ট) → সিদ্ধান্ত (feed লেখার সময় বানানো নাকি পড়ার সময়, cache কোথায়) → যা বাদ দিলাম → গঠন → কোথায় ভাঙবে; কালকের chat রেকর্ডিংয়ে যেখানে চুপ হয়েছিলেন, সেই অংশ এবার লিখে ধরে 🧠 (Active learning · Deliberate practice)
+- [ ] ৫০′ ⚑ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: news feed-এর design doc, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 
 > **দিন শেষে:** ছয় সেকশনই লেখা?
 
@@ -95,7 +95,7 @@
 ### দিন ০৭২ · news feed-এর অনুমান, না দেখে
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ news feed-এর **স্কেলের অনুমান আর মূল সিদ্ধান্ত** না দেখে আবার লিখুন, তারপর doc-এর সাথে মিলিয়ে; যেখানে অমিল, সেখানে ১ লাইনে কেন 🔁 🧠 (Test yourself)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: news feed-এর অনুমান আর সিদ্ধান্ত, না দেখে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — "লেখার সময় নাকি পড়ার সময়" — trade-off, ১ মিনিট
 
 > **দিন শেষে:** অনুমান না দেখে মিলেছে?
@@ -103,7 +103,7 @@
 ### দিন ০৭৩ · chat-এর রেকর্ডিং থেকে
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ chat-এর রেকর্ডিং শুনে তিনটা জিনিস — কোথায় চুপ হলেন, scope কি শুরুতে বলা হয়েছে, "কোথায় ভাঙবে" নিজে থেকে এসেছে কি; সবচেয়ে দুর্বলটা পরের সিস্টেমে ধরবেন 🧠 (Feedback)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: chat-এর রেকর্ডিং থেকে তিনটা জিনিস; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — দুর্বল অংশটা আবার, ২ মিনিটে
 
 > **দিন শেষে:** পরের সিস্টেমে কোন একটা জিনিস ধরবেন, লেখা?
@@ -111,7 +111,7 @@
 ### দিন ০৭৪ · autocomplete, ২০′
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২০′ autocomplete UI আবার — এবার **২০′ টাইমারে**, ছয় ধাপ; debounce, পুরনো request বাতিল, keyboard দিয়ে বাছাই 🔁 🧠 (Parkinson's law · Test yourself)
+- [ ] ২০′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: autocomplete UI, ২০′-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — কোন ধাপে সময় বেশি গেল
 
 > **দিন শেষে:** ২০ মিনিটে ছয় ধাপ?
@@ -126,14 +126,14 @@
 
 ### দিন ০৭৬ · design doc — file storage
 
-- [ ] ৬০′ ⚑ **file storage — design doc, ইংরেজিতে, ছয় সেকশন:** কী বানাচ্ছি (upload, download, share) → স্কেলের অনুমান (কতজন, ফাইলের গড় আকার, মোট জায়গা) → সিদ্ধান্ত (বড় ফাইল কীভাবে ভাগ করে ওঠে, metadata আর ফাইল আলাদা কোথায়) → যা বাদ দিলাম → গঠন → কোথায় ভাঙবে 🧠 (Active learning · Trunk based knowledge)
+- [ ] ৬০′ ⚑ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: file storage-এর design doc, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 
 > **দিন শেষে:** ছয় সেকশনই লেখা?
 
 ### দিন ০৭৭ · news feed, ৪৫′
 
 - [ ] ১০′ সপ্তাহের হিসাব
-- [ ] ৪৫′ **news feed — ৪৫′ টাইমারে, মুখে,** doc বন্ধ, কাগজে আঁকতে আঁকতে; রেকর্ড। শেষ ৫ মিনিট নিজেকে follow-up: *"What if one user has ten million followers?"* 🔁 🧠 (Test yourself · Einstellung)
+- [ ] ৪৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: news feed — ৪৫′-এ মুখে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 
 > **দিন শেষে:** follow-up প্রশ্নের একটা উত্তর এসেছে?
 
@@ -148,7 +148,7 @@
 ### দিন ০৭৯ · file storage — কোথায় ভাঙবে
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ file storage-এর **তিনটা ভাঙার জায়গা** — প্রতিটায় প্রথম সহজ সমাধান, আর আরেকটা বিকল্প; প্রথম চেনা উত্তরটাই ভালোটা আড়াল করে 🔁 🧠 (Einstellung)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: file storage — কোথায় ভাঙবে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — একটা জায়গা, দুটো বিকল্প, trade-off সহ
 
 > **দিন শেষে:** তিন জায়গায় দুটো করে বিকল্প লেখা?
@@ -179,8 +179,7 @@
 
 ### দিন ০৮৩ · file storage, ৪৫′
 
-- [ ] ৪৫′ **file storage — ৪৫′ টাইমারে, মুখে,** doc বন্ধ; রেকর্ড। এবার শুরুতে ২ মিনিট শুধু প্রশ্ন আর scope 🔁 🧠 (Test yourself · Deep work)
-- [ ] ১৫′ রেকর্ডিং শুনে — chat আর news feed-এর রেকর্ডিংয়ের চেয়ে কী ভালো হলো, এক লাইনে 🧠 (Feedback · Compound learning)
+- [ ] ৬০′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: file storage — ৪৫′-এ মুখে, তিন রেকর্ডিং মিলিয়ে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 
 > **দিন শেষে:** তিনটা রেকর্ডিংয়ের মধ্যে উন্নতি শোনা যায়?
 
@@ -203,7 +202,7 @@
 ### দিন ০৮৬ · তিন সিস্টেমে যা বাদ
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ chat, news feed, file storage — প্রতিটায় ৩টা জিনিস যা ইচ্ছাকৃতভাবে বাদ, না দেখে; তারপর doc-এর সাথে মিলিয়ে 🔁 🧠 (Pareto · Test yourself)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: তিন সিস্টেমে যা বাদ, না দেখে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — *"To keep this within 45 minutes, I'll leave out…"* — তিন সিস্টেমে
 
 > **দিন শেষে:** ৯টা "বাদ" না দেখে লেখা গেছে?
@@ -219,7 +218,7 @@
 ### দিন ০৮৮ · browser-এর ছবি
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ **Event loop, rendering pipeline, Core Web Vitals** — এক পাতার ছবি হাতে: task/microtask → style → layout → paint; LCP, INP, CLS কী মাপে; frontend design-এর "performance" ধাপে এটাই লাগে 🔁 🧠 (The power of senses · Feynman)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: browser-এর ছবি; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — ছবিটা দেখিয়ে ব্যাখ্যা, তারপর ছবি ছাড়া
 
 > **দিন শেষে:** ছবি ছাড়া বলা গেছে?

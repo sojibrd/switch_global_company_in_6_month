@@ -73,7 +73,7 @@
 ### দিন ০০৯ · design doc-এর ছাঁচ
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ `system_design`-এর `designs/` ছাঁচের ছয় সেকশন নিজের ভাষায় একটা কার্ডে — কী বানাচ্ছি → স্কেলের অনুমান → সিদ্ধান্ত → যা ইচ্ছাকৃতভাবে বাদ দিলাম → আর্কিটেকচার → যেখানে ভাঙবে; প্রতিটার পাশে এক লাইনে কেন ঐ সেকশন নম্বর আনে 🔁 🧠 (Chunk the subject · Trunk based knowledge)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: design doc-এর ছাঁচ, ছয় সেকশন একটা কার্ডে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — কার্ড না দেখে ছয় সেকশন বলুন
 
 > **দিন শেষে:** ছয় সেকশন না দেখে বলা যায়?
@@ -130,7 +130,7 @@
 ### দিন ০১৬ · স্কেলের অনুমান — ১
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ URL shortener-এর **স্কেলের অনুমান** না দেখে আবার — দিনে কত লেখা, কত পড়া, কত জায়গা; তারপর `designs/`-এর নিজের ডকের সাথে মিলিয়ে; অনুমান ছাড়া প্রতিটা সিদ্ধান্ত আন্দাজ 🔁 🧠 (Test yourself)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: URL shortener-এর স্কেলের অনুমান, না দেখে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — হিসাবটা জোরে, সংখ্যাসহ
 
 > **দিন শেষে:** অনুমান না দেখে মিলেছে?
@@ -146,7 +146,7 @@
 ### দিন ০১৮ · frontend design-এর ক্রম
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ frontend system design রাউন্ডের **ছয় ধাপ** একটা কার্ডে — চাহিদা → component → state কোথায় → ডেটা আনা ও cache → performance → accessibility; প্রতিটায় নিজের কাজ থেকে একটা উদাহরণ 🔁 🧠 (Chunk the subject)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: frontend design-এর ছয় ধাপ একটা কার্ডে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — কার্ড না দেখে ছয় ধাপ
 
 > **দিন শেষে:** ছয় ধাপ না দেখে বলা যায়?
@@ -186,7 +186,7 @@
 ### দিন ০২৩ · স্কেলের অনুমান — ২
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ rate limiter-এর **স্কেলের অনুমান আর সিদ্ধান্ত** না দেখে — কোন algorithm, কোথায় বসে, কী জমা থাকে; তারপর নিজের ডকের সাথে মিলিয়ে 🔁 🧠 (Test yourself)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: rate limiter-এর অনুমান আর সিদ্ধান্ত, না দেখে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — কেন ঐ algorithm, trade-off সহ
 
 > **দিন শেষে:** সিদ্ধান্ত না দেখে মিলেছে?
@@ -202,7 +202,7 @@
 ### দিন ০২৫ · autocomplete, মুখে
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ *"Design an autocomplete UI"* — দিন ০১৮-এর ছয় ধাপে ইংরেজিতে জোরে, কাগজে আঁকতে আঁকতে; রেকর্ড 🔁 🧠 (Active learning · The power of senses)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: autocomplete UI, মুখে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — রেকর্ডিং শুনে কোন ধাপ বাদ পড়ল
 
 > **দিন শেষে:** ছয় ধাপের কোনোটা বাদ পড়েনি?

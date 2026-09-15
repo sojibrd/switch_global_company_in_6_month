@@ -13,7 +13,7 @@
 ### দিন ১৫১ · process-এর হিসাব
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২০′ ছয় UI-এর কাগজ থেকে একটা, ২০′ টাইমারে 🧠 (Interleaving · Test yourself)
+- [ ] ২০′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: এলোমেলো UI; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — spreadsheet খুলে: এ পর্যন্ত কয়টা process সম্পূর্ণ, কোনগুলো চলছে, কোন রাউন্ডে — জোরে
 
 > **দিন শেষে:** process-এর হিসাব জানা?
@@ -68,7 +68,7 @@
 ### দিন ১৫৮ · এলোমেলো UI
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২০′ ছয় UI-এর কাগজ থেকে একটা, ২০′ টাইমারে, রেকর্ড 🧠 (Interleaving · Test yourself)
+- [ ] ২০′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: এলোমেলো UI; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — কাল হালকা দিন, পরশু mock — কোন story-টা সবচেয়ে দুর্বল
 
 > **দিন শেষে:** ২০ মিনিটে ছয় ধাপ?
@@ -105,7 +105,7 @@
 ### দিন ১৬৩ · দুর্বলতম সিস্টেম, প্রথম ১৫ মিনিট
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ রেকর্ডিং ধরে সবচেয়ে দুর্বল সিস্টেম — শুধু **প্রথম ১৫ মিনিট** আবার: প্রশ্ন, scope, অনুমান, প্রথম সহজ ডিজাইন 🔁 🧠 (Deliberate practice)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: দুর্বলতম সিস্টেমের প্রথম ১৫ মিনিট; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — প্রথম ২ মিনিট আরেকবার, আরও ছোট করে
 
 > **দিন শেষে:** ১৫ মিনিটে সহজ ডিজাইন পর্যন্ত গেছে?
@@ -121,7 +121,7 @@
 ### দিন ১৬৫ · এলোমেলো UI
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২০′ ছয় UI-এর কাগজ থেকে একটা, ২০′ টাইমারে, রেকর্ড 🧠 (Interleaving · Test yourself)
+- [ ] ২০′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: এলোমেলো UI; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — story #৫ (অন্যকে শেখানো), ৯০ সেকেন্ড
 
 > **দিন শেষে:** ২০ মিনিটে ছয় ধাপ?
@@ -174,7 +174,7 @@
 ### দিন ১৭২ · দুই ছাঁচ, না দেখে
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২০′ ফাঁকা কাগজে দুই ছাঁচ, না দেখে — DSA-র interview-ধাপ আর design-এর ছয় সেকশন; প্রতিটা ধাপের পাশে এক লাইনে কী বলবেন 🧠 (Test yourself)
+- [ ] ২০′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: দুই ছাঁচ, না দেখে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — দুই ছাঁচ জোরে
 
 > **দিন শেষে:** দুই ছাঁচ না দেখে পুরো?
@@ -195,7 +195,7 @@
 
 ### দিন ১৭৫ · ইংরেজি — আগে আর এখন, DSA থামা
 
-- [ ] ১০′ সপ্তাহের হিসাব · ⚑ [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এর শেষ দিন — থামার সিদ্ধান্ত ঐ সাইটে লিখুন: নতুন প্রবলেম নয়, এখন থেকে ঝালাই আর সপ্তাহে একটা mock 🧠 (Have an endpoint · 10,000 hours rule)
+- [ ] ১০′ সপ্তাহের হিসাব · ⚑ [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এর শেষ দিন — থামার সিদ্ধান্ত ঐ সাইটে লিখুন: নতুন প্রবলেম নয়, এখন থেকে ঝালাই আর সপ্তাহে একটা mock · [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এরও শেষ দিন — থামা ঐ সাইটে 🧠 (Have an endpoint · 10,000 hours rule)
 - [ ] ২০′ দিন ০৩৮-এর মতো একই প্রশ্নে ২ মিনিট রেকর্ড — নিজের কাজ নিয়ে
 - [ ] ২০′ `baseline` আর আজকের রেকর্ডিং **পাশাপাশি শুনুন** — থামা, খোঁজা শব্দ, "um"-এর সংখ্যা; তিনটা পার্থক্য লিখুন 🧠 (Feedback · Compound learning)
 - [ ] ১০′ যাকে দিন ০০১-এ বলেছিলেন, তাকে দুটো রেকর্ডিং পাঠান 🧠 (Stakes & Rewards)

@@ -11,7 +11,7 @@
 ### দিন ১২১ · video streaming-এর অনুমান, না দেখে
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ video streaming-এর **স্কেলের অনুমান আর মূল সিদ্ধান্ত** না দেখে আবার, তারপর doc-এর সাথে মিলিয়ে 🔁 🧠 (Test yourself)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: video streaming-এর অনুমান আর সিদ্ধান্ত, না দেখে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — যেখানে অমিল, সেটা জোরে ঠিক করে
 
 > **দিন শেষে:** অনুমান না দেখে মিলেছে?
@@ -27,7 +27,7 @@
 ### দিন ১২৩ · এলোমেলো UI — ১
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২০′ ছয়টা UI কাগজে লিখে উল্টে রাখুন — autocomplete, news feed, infinite feed, file upload, chat, video player; একটা তুলুন, **২০′ টাইমারে** ছয় ধাপ, রেকর্ড 🧠 (Interleaving · Test yourself)
+- [ ] ২০′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: এলোমেলো UI — ১; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — কোন ধাপে সময় বেশি গেল
 
 > **দিন শেষে:** ২০ মিনিটে ছয় ধাপ?
@@ -42,8 +42,7 @@
 
 ### দিন ১২৫ · ride sharing, ৪৫′
 
-- [ ] ৪৫′ **ride sharing — ৪৫′ টাইমারে, মুখে,** doc বন্ধ, কাগজে আঁকতে আঁকতে; রেকর্ড। শুরুতে ২ মিনিট শুধু প্রশ্ন আর scope 🔁 🧠 (Test yourself · Deep work)
-- [ ] ১৫′ রেকর্ডিং শুনে তিনটা জিনিস — প্রশ্ন আর scope আগে এসেছে কি, অনুমানের সংখ্যা ছিল কি, "কোথায় ভাঙবে" নিজে থেকে এসেছে কি 🧠 (Feedback)
+- [ ] ৬০′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: ride sharing — ৪৫′-এ মুখে, তারপর রেকর্ডিং; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 
 > **দিন শেষে:** ৪৫ মিনিটে "কোথায় ভাঙবে" পর্যন্ত গেছে?
 
@@ -66,7 +65,7 @@
 ### দিন ১২৮ · প্রথম দুই মিনিট
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ design রাউন্ডের **প্রথম দুই মিনিট** — শনিবারের সিস্টেম ধরে: কী কী প্রশ্ন করবেন, কী scope ধরবেন, কী বাদ; তিনবার, প্রতিবার ছোট করে। বেশিরভাগ নম্বর এখানেই ঠিক হয় 🧠 (Deliberate practice · Pareto)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: design রাউন্ডের প্রথম দুই মিনিট; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — *"Before I start, let me make sure I understand the scope…"*
 
 > **দিন শেষে:** দুই মিনিটে প্রশ্ন আর scope বলা যায়?
@@ -82,7 +81,7 @@
 ### দিন ১৩০ · এলোমেলো UI — ২
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২০′ ছয় UI-এর কাগজ থেকে আরেকটা, ২০′ টাইমারে, রেকর্ড — দিন ১২৩-এর দুর্বল ধাপটা এবার আগে ধরে 🧠 (Interleaving · Deliberate practice)
+- [ ] ২০′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: এলোমেলো UI — ২; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — আগের আর আজকের রেকর্ডিং, কী বদলাল
 
 > **দিন শেষে:** আগের দুর্বল ধাপটা এবার ভরা?
@@ -105,7 +104,7 @@
 ### দিন ১৩৩ · video streaming, ৪৫′
 
 - [ ] ১০′ সপ্তাহের হিসাব
-- [ ] ৪৫′ **video streaming — ৪৫′ টাইমারে, মুখে,** doc বন্ধ, কাগজে আঁকতে আঁকতে; রেকর্ড। শেষ ৫ মিনিটে নিজেকে follow-up: *"A video goes viral in one region — what breaks first?"* 🔁 🧠 (Test yourself · Einstellung)
+- [ ] ৪৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: video streaming — ৪৫′-এ মুখে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 
 > **দিন শেষে:** follow-up-এর একটা উত্তর এসেছে?
 
@@ -120,7 +119,7 @@
 ### দিন ১৩৫ · নতুন দুই সিস্টেমে যা বাদ
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ ride sharing আর video streaming — প্রতিটায় ৩টা "বাদ দিলাম" আর ৩টা "কোথায় ভাঙবে", না দেখে; তারপর doc-এর সাথে মিলিয়ে 🔁 🧠 (Pareto · Test yourself)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: নতুন দুই সিস্টেমে যা বাদ, না দেখে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — *"To keep this within 45 minutes, I'll leave out…"*
 
 > **দিন শেষে:** ১২টা লাইন না দেখে লেখা গেছে?
@@ -136,7 +135,7 @@
 ### দিন ১৩৭ · এলোমেলো UI — ৩
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২০′ ছয় UI-এর কাগজ থেকে আরেকটা, ২০′ টাইমারে, রেকর্ড 🧠 (Interleaving · Test yourself)
+- [ ] ২০′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: এলোমেলো UI — ৩; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — accessibility ধাপটা আবার, ধীরে
 
 > **দিন শেষে:** ২০ মিনিটে ছয় ধাপ?
@@ -174,7 +173,7 @@
 ### দিন ১৪২ · mock থেকে একটা জিনিস
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ mock #২-এর "একটা জিনিস" — শুধু ওটা: ঐ অংশটা অন্য একটা সিস্টেমে, ১০ মিনিটে, রেকর্ড 🧠 (Deliberate practice)
+- [ ] ২৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: mock #২-এর একটা জিনিস; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — আগের আর নতুন রেকর্ডিং পাশাপাশি
 
 > **দিন শেষে:** ঐ একটা জিনিসে উন্নতি শোনা যায়?
@@ -190,7 +189,7 @@
 ### দিন ১৪৪ · এলোমেলো UI — ৪
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২০′ ছয় UI-এর কাগজ থেকে আরেকটা, ২০′ টাইমারে, রেকর্ড 🧠 (Interleaving · Test yourself)
+- [ ] ২০′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: এলোমেলো UI — ৪; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — performance ধাপটা আবার
 
 > **দিন শেষে:** ২০ মিনিটে ছয় ধাপ?
@@ -212,14 +211,14 @@
 ### দিন ১৪৭ · আট সিস্টেমের মানচিত্র
 
 - [ ] ১০′ সপ্তাহের হিসাব
-- [ ] ৪৫′ ⚑ **আট সিস্টেম, এক পাতা, হাতে লিখে** — প্রতিটায় এক লাইনে মূল সিদ্ধান্ত আর এক লাইনে কোথায় ভাঙবে; তারপর দেখুন কোন সিদ্ধান্ত বারবার ফেরে (cache, queue, আলাদা জমা) — ওগুলোই আপনার trunk 🧠 (Chunk the subject · The power of senses)
+- [ ] ৪৫′ ⚑ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: আট সিস্টেমের মানচিত্র, এক পাতা; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 
 > **দিন শেষে:** এক পাতায় আট সিস্টেম?
 
 ### দিন ১৪৮ · সবচেয়ে পুরনো সিস্টেম, ৪৫′
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ৪৫′ কালকের পাতা দেখে যে সিস্টেম সবচেয়ে বেশি দিন বলা হয়নি — **৪৫′ টাইমারে, মুখে,** doc বন্ধ; রেকর্ড 🔁 🧠 (Spaced repetition · Test yourself)
+- [ ] ৪৫′ system design — [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/)-এর আজকের দিন: সবচেয়ে পুরনো সিস্টেম, ৪৫′-এ মুখে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 
 > **দিন শেষে:** পুরনো সিস্টেম কতটা টিকে আছে — এক লাইনে লেখা?
 
