@@ -8,7 +8,7 @@
 
 offer পাওয়া লক্ষ্য নয় — কে নিয়োগ দেবে তা বাজার ঠিক করে। আবেদন পাঠানো আর process শেষ করা পুরোটাই আপনার হাতে, তাই মাপা হবে ওটাই।
 
-**offer-এর নিচের সীমা: মাসে $১,৭০০** — রিমোটের সমান; `two-lakh-per-month-in-2-years.md`-এর একমাত্র সংখ্যা (ব্যবহারকারীর সিদ্ধান্ত ২০২৬-০৯-১৫)। **সীমা, লক্ষ্য নয়** — এর নিচে নয়, এটুকুই। বেতনের আসল তথ্য (দিন ০৫৮, ০৯৪) পেলে উপরে তোলা যায়, নিচে নয়। সাথে কাজের সময়ের সীমা: রাত ১১টার পরে নয়; contractor হলে তুলনা insurance, ট্যাক্স আর ছুটির খরচ বাদ দিয়ে। offer হাতে আসার পরে মানুষ যেকোনো সংখ্যাকেই যুক্তি দিয়ে মেনে নেয়।
+**offer-এর নিচের সীমা: মাসে $১,৭০০** — রিমোটের সমান; `brainstorming/income-math.md`-এর "২ বছরে ২ লাখ" সেকশনের একমাত্র সংখ্যা (ব্যবহারকারীর সিদ্ধান্ত ২০২৬-০৯-১৫)। **সীমা, লক্ষ্য নয়** — এর নিচে নয়, এটুকুই। বেতনের আসল তথ্য (দিন ০৫৮, ০৯৪) পেলে উপরে তোলা যায়, নিচে নয়। সাথে কাজের সময়ের সীমা: রাত ১১টার পরে নয়; contractor হলে তুলনা insurance, ট্যাক্স আর ছুটির খরচ বাদ দিয়ে। offer হাতে আসার পরে মানুষ যেকোনো সংখ্যাকেই যুক্তি দিয়ে মেনে নেয়।
 
 **সংখ্যা কেন ২০ নয়, ১০:** দেশ থেকে রিমোটে নেয় এমন big tech মানের কোম্পানি হাতেগোনা; প্রতিটা process ৪–৬ রাউন্ড, চলে কয়েক সপ্তাহ; আর সপ্তাহের বড় অংশ যায় DSA আর system design-এ। একই plan-এ ২০টা লিখলে শুরু থেকেই dip।
 
@@ -17,7 +17,7 @@ offer পাওয়া লক্ষ্য নয় — কে নিয়ো
 আবেদন আর process-এর সংখ্যা, আর "দেশে থেকে রিমোট, relocation নয়" — ব্যবহারকারীর সিদ্ধান্ত (২০২৬-০৯-১৫)। বাকি কাজ আগে থেকে লেখা ফাইল থেকে দিনে ভাঙা। কোনো তথ্য বদলালে এই ক্রমে:
 
 1. `brainstorming/ASSUMPTIONS.md`
-2. `brainstorming/` — বিশেষ করে `dsa-prep-how-many-paths.md`, `dsa-prep-what-works-for-faang.md`, `system-design-what-works-for-faang.md`, `crack-remote-company-roadmap.md`, `how-to-write-my-cv.md`, `after-joining/11-next-jump.md`, `after-getting-response/`
+2. `brainstorming/` — বিশেষ করে `dsa.md` (তিন পথ · FAANG-এ কী ভালো), `system-design.md` (FAANG-এ কী ভালো), `which-market.md` (রিমোট কোম্পানি), `proof-projects-and-cv.md` (সিভি), `after-joining.md` (ধাপ ১১), `application-to-offer.md`
 3. এই ফোল্ডার
 
 এটা তিনটা বিকল্প plan-এর একটা — একজন একটাই চালায়: [লোকাল](https://sojibrd.github.io/switch_in_6_month_local_company/) · [রিমোট](https://sojibrd.github.io/switch_in_6_month_remote_company/) · **গ্লোবাল** (এটা)।
@@ -199,5 +199,5 @@ FAANG (Google, Meta, Amazon…) বাংলাদেশ থেকে রিম�
 
 ## দিন ১৮০-র পরে
 
-- **offer এলে** — ১৮০ দিনের আগে হোক বা পরে: `brainstorming/after-getting-response/06-offer-and-resign.md` আর `07-notice-period.md`। রিমোট offer-এ দেখবেন — employee (EOR) নাকি contractor, মুদ্রা আর টাকার পথ, ঢাকার সময়ে কখন কাজ, notice।
+- **offer এলে** — ১৮০ দিনের আগে হোক বা পরে: `brainstorming/application-to-offer.md`-এর ধাপ ৬ আর `after-joining.md`-এর ধাপ ৭। রিমোট offer-এ দেখবেন — employee (EOR) নাকি contractor, মুদ্রা আর টাকার পথ, ঢাকার সময়ে কখন কাজ, notice।
 - **না এলে** DSA-র ঝালাই, সপ্তাহে একটা mock, আর দুই সপ্তাহে একটা আবেদন চলতে থাকবে — **সই না হওয়া পর্যন্ত।**
