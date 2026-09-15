@@ -197,7 +197,7 @@
 ### দিন ১১৫ · কোম্পানিভেদে story
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ big tech-এর behavioral কী শুনতে চায় — ৩টা প্রশ্ন, প্রতিটায় কোন story আর কোন সংখ্যা; [`behavioural_interview`](../../behavioural_interview/docs/04-question-bank/03-company-variants.md) মিলিয়ে 🧠 (Interleaving · Everything is a game)
+- [ ] ২৫′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: big tech-এর behavioral, তিন প্রশ্ন; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — তিনটার একটা, নোট বন্ধ
 
 > **দিন শেষে:** তিন প্রশ্নে story আর সংখ্যা বাছাই লেখা?

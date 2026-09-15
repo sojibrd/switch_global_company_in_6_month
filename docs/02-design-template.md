@@ -119,7 +119,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 ### দিন ০৪৫ · story → signal
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ story → signal ম্যাপ — দায়িত্ব, মতবিরোধ, ব্যর্থতা, অস্পষ্টতা, প্রভাব, শেখা; প্রতিটায় অন্তত একটা story? ফাঁক কোথায় — [`behavioural_interview`](../../behavioural_interview/docs/02-stories/06-story-signal-map.md) মিলিয়ে 🧠 (Chunk the subject)
+- [ ] ২৫′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: story → signal ম্যাপ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — ফাঁকের signal-এর জন্য কোন story বদলানো যায়, ১ মিনিট
 
 > **দিন শেষে:** ছয় signal-এর পাশে story-র নাম?
@@ -157,7 +157,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১০′ `00-rules.md`-এর Dip-এর নিয়ম নিজের ভাষায় ৩ লাইনে — কাগজে, ল্যাপটপের পাশে 🧠 (The dip)
-- [ ] ২৫′ ছয় story, এলোমেলো — প্রশ্ন ব্যাংক থেকে ৩টা নতুন প্রশ্ন, একই signal-এর দুটো পরপর নয়; নোট বন্ধ, ইংরেজিতে রেকর্ড 🧠 (Interleaving · Test yourself)
+- [ ] ২৫′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: ছয় story, তিনটা নতুন প্রশ্ন; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 
 > **দিন শেষে:** Dip-এর নিয়ম কাগজে, আর ৩টা প্রশ্নে story খাপ খেয়েছে?
 
@@ -172,7 +172,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 ### দিন ০৫২ · follow-up প্রশ্নে টেকা
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ story #১–#৩ — প্রতিটায় তিনটা follow-up: *"Why did you choose that?" · "What was the result, exactly?" · "What would you do differently?"*; রেকর্ড 🧠 (Test yourself)
+- [ ] ২৫′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: story #১–#৩-এ follow-up; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — যে follow-up-এ থামলেন, সেটার উত্তর আবার, ধীরে
 
 > **দিন শেষে:** ৯টা follow-up-এর উত্তর দেওয়া গেছে?

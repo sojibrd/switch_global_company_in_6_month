@@ -19,7 +19,7 @@
 ### দিন ১২২ · প্রভাবের story
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ *"Tell me about a time you influenced a decision without authority"* — দিন ০৪৫-এর ম্যাপে "প্রভাব" signal-এর story বদলে; ইংরেজিতে বুলেট, ফল সংখ্যায় 🔁 🧠 (Chunk the subject · Feynman)
+- [ ] ২৫′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: প্রভাবের story; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — রেকর্ড, ৯০ সেকেন্ড
 
 > **দিন শেষে:** প্রভাবের story ৯০ সেকেন্ডে?
@@ -96,7 +96,7 @@
 
 ### দিন ১৩২ · আট প্রশ্ন, এলোমেলো
 
-- [ ] ৫০′ প্রশ্ন ব্যাংক থেকে **৮টা প্রশ্ন এলোমেলো**, আগে কখনো না তোলা; নোট বন্ধ, প্রতিটায় ৯০ সেকেন্ড, একই signal-এর দুটো পরপর নয়; রেকর্ড 🧠 (Interleaving · Test yourself)
+- [ ] ৫০′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: আটটা প্রশ্ন এলোমেলো; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১০′ ইংরেজি — কোন প্রশ্নে কোনো story খাপ খায়নি — ঐ প্রশ্নটা লিখে রাখুন
 
 > **দিন শেষে:** ৮টার মধ্যে কয়টায় story খাপ খেয়েছে — সংখ্যা লেখা?
@@ -127,7 +127,7 @@
 ### দিন ১৩৬ · ছয় signal, ৩০ সেকেন্ড
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ ছয় signal কাগজে উল্টে — দায়িত্ব, মতবিরোধ, ব্যর্থতা, অস্পষ্টতা, প্রভাব, শেখা; একটা তুলে ৩০ সেকেন্ডের story, ছয়টাই, রেকর্ড 🧠 (Interleaving)
+- [ ] ২৫′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: ছয় signal, ৩০ সেকেন্ডে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — সবচেয়ে ধীর শুরু কোনটায়, আবার
 
 > **দিন শেষে:** ছয় signal-এই ৩০ সেকেন্ডের story এসেছে?
@@ -181,7 +181,7 @@
 ### দিন ১৪৩ · দুটো কঠিন story
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ *"Tell me about a time you disagreed with a more senior engineer"* আর *"…a project where the goal kept changing"* — প্রতিটা ৯০ সেকেন্ড, নোট বন্ধ, প্রতিটার পরে নিজেকে একটা follow-up 🔁 🧠 (Test yourself)
+- [ ] ২৫′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: দুটো কঠিন প্রশ্ন; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — যেটায় থামলেন, সেটা আবার
 
 > **দিন শেষে:** দুটো প্রশ্নেই story আর follow-up-এর উত্তর?

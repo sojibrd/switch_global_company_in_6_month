@@ -48,7 +48,7 @@
 
 ### দিন ০০৬ · প্রথম STAR story
 
-- [ ] ৪০′ STAR #১ — **দায়িত্ব নেওয়া:** কেউ বলেনি, তবু নিজে থেকে কিছু ঠিক করেছেন; ইংরেজিতে বুলেট, Action ৬০%, "I", ফল সংখ্যায় 🔁 🧠 (Feynman)
+- [ ] ৪০′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: STAR #১, দায়িত্ব নেওয়া; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — story #১ জোরে, ফোনে রেকর্ড; ৯০ সেকেন্ডে শেষ হলো? 🧠 (Feedback)
 - [ ] ৫′ কোন কাজের সংখ্যা এখনো জানা নেই — এক লাইনে; অফিসে সপ্তাহে একবার খুঁজে নোট
 
@@ -81,7 +81,7 @@
 ### দিন ০১০ · STAR #২
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ STAR #২ — **কঠিন কারিগরি সিদ্ধান্ত:** অফিসের কোনো architecture বা library বাছাই; কী কী বিকল্প ছিল, কেন এটা 🔁 🧠 (Feynman)
+- [ ] ২৫′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: STAR #২, কঠিন কারিগরি সিদ্ধান্ত; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — story #২ রেকর্ড, ৯০ সেকেন্ড
 
 > **দিন শেষে:** story #২ রেকর্ড করা?
@@ -105,7 +105,7 @@
 ### দিন ০১৩ · টাকার ব্যবস্থা আর STAR #৩
 
 - [ ] ৩০′ ⚑ **টাকা আনার ব্যবস্থা** — বাছা পথে অ্যাকাউন্টের আবেদন জমা, ফ্রিল্যান্সার আইডির আবেদন, আর ট্যাক্সের হিসাব নিয়ে একজন জানা মানুষকে দুটো প্রশ্ন; offer-এর পরে এ নিয়ে দৌড়ঝাঁপ মানে offer হারানো 🧠 (You can avoid risk)
-- [ ] ২৫′ STAR #৩ — **অস্পষ্ট পরিস্থিতি:** অসম্পূর্ণ requirement নিয়ে কাজ শুরু করতে হয়েছিল এমন কোনো ফিচার 🔁 🧠 (Feynman)
+- [ ] ২৫′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: STAR #৩, অস্পষ্ট পরিস্থিতি; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — story #৩ রেকর্ড, শুনে একটা জিনিস বদলে আবার
 
 > **দিন শেষে:** টাকার ব্যবস্থার আবেদন জমা, আর তিনটা story লেখা?
@@ -138,7 +138,7 @@
 ### দিন ০১৭ · STAR #৪
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ STAR #৪ — **মতবিরোধ:** code review-তে দ্বিমত, বা deadline নিয়ে PM-এর সাথে টানাপোড়েন — ঝগড়া নয়, দ্বিমত সত্ত্বেও কাজ কীভাবে এগোল 🔁 🧠 (Feynman)
+- [ ] ২৫′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: STAR #৪, মতবিরোধ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — story #৪ রেকর্ড
 
 > **দিন শেষে:** story #৪ রেকর্ড করা?
@@ -161,8 +161,7 @@
 
 ### দিন ০২০ · STAR #৫ — অন্যকে শেখানো
 
-- [ ] ৪০′ STAR #৫ — **অন্যকে শেখানো:** কোনো junior বা নতুন সহকর্মীকে শিখিয়েছেন, বা টিমে কোনো নিয়ম চালু করেছেন; senior পদে এটাই সবচেয়ে বেশি খোঁজা হয় 🔁 🧠 (Feynman)
-- [ ] ১৫′ story #১–#৪: প্রতিটায় *"What would you do differently?"* — নোট বন্ধ করে উত্তর 🧠 (Test yourself)
+- [ ] ৫৫′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: STAR #৫ আর চারটার differently; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — story #৫ রেকর্ড
 
 > **দিন শেষে:** পাঁচটা story, প্রতিটার "differently" উত্তর আছে?
@@ -194,7 +193,7 @@
 ### দিন ০২৪ · STAR #৬ — ব্যর্থতা
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ ⚑ STAR #৬ — **ব্যর্থতা:** সত্যিকারের একটা ভুল — কী ভুল, দোষ কোথায় আপনার, **তারপর থেকে কী আলাদা করেন** 🔁 🧠 (Failures don't count)
+- [ ] ২৫′ ⚑ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: STAR #৬, ব্যর্থতা; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — story #৬ রেকর্ড
 
 > **দিন শেষে:** ছয়টা story লেখা?
@@ -217,8 +216,7 @@
 
 ### দিন ০২৭ · ছয় story, এলোমেলো
 
-- [ ] ৫০′ ছয়টা story এলোমেলো প্রশ্নে — [`behavioural_interview` প্রশ্ন ব্যাংক](../../behavioural_interview/docs/04-question-bank/01-high-frequency-questions.md) থেকে ৬টা প্রশ্ন এলোমেলো তুলে, নোট বন্ধ, প্রতিটার উত্তর ইংরেজিতে রেকর্ড 🧠 (Interleaving · Test yourself)
-- [ ] ১০′ কোন story সবচেয়ে দুর্বল — এক লাইনে; ওটার ঝালাইয়ে ঐ দুর্বলতা ধরবেন 🧠 (Deliberate practice)
+- [ ] ৬০′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: ছয় story এলোমেলো প্রশ্নে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 
 > **দিন শেষে:** ৬টা প্রশ্নেই কোনো একটা story খাপ খেয়েছে?
 

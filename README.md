@@ -22,6 +22,7 @@
 - **"আজ" = ক্যালেন্ডারের তারিখ।** plan পেছায় না। বাদ পড়া সাধারণ কাজ ফেরে না; শুধু ⚑ জমে থাকে।
 - **DSA এই সাইটে নয়।** দিন ০০৮–১৭৫ [`dsa_prep_global_company`](https://sojibrd.github.io/dsa_prep_global_company/) — ১১০টা প্রবলেম, ১৮০ দিনের মধ্যেই শেষ; ঐ সাইটের সাতটা DSA mock এই plan-এর শনিবারে (দিন ০৩৪, ০৬২, ০৯০, ১১৮, ১৪৬, ১৬৭, ১৭৪)।
 - **System design-ও এই সাইটে নয়।** দিন ০০৮–১৭৫-এর design-এর ঘর [`system_design_global_company`](https://sojibrd.github.io/system_design_global_company/)-এ — কাজ এখান থেকে হুবহু সরানো, ঐ সাইটের দিন = এই plan-এর দিন − ৭; এখানে ঘর আর লিংক, আর plan-এর নিজের mock।
+- **Behavioural-ও এই সাইটে নয়।** দিন ০০৬–১৪৩-এর story-র কাজ [`behavioural_interview_global_company`](https://sojibrd.github.io/behavioural_interview_global_company/)-এ — হুবহু সরানো, ঐ সাইটের দিন = এই plan-এর দিন − ৫; এখানে ঘর আর লিংক, রোজের ইংরেজি আর mock।
 - **Static export → GitHub Pages।** Backend নেই।
 - **Progress শুধু `localStorage`-এ,** একমাত্র `app/hooks/useProgress.ts` দিয়ে। **`app/lib/plan.ts` server-only।**
 - **তিন plan-এর কোড এক।** পার্থক্য শুধু `app/lib/site.ts`, `next.config.ts`-এর basePath আর `docs/`। কোড বদলালে তিন repo-তেই একই বদল।

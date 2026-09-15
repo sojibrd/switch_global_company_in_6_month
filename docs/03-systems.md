@@ -42,7 +42,7 @@
 ### দিন ০৬৫ · আপনার প্রশ্ন
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ interviewer-কে আপনি যা জিজ্ঞেস করবেন — ৫টা প্রশ্ন ইংরেজিতে: টিম কী বানায়, এই level-এ কী আশা, প্রথম ছয় মাস, রিমোটে টিম কীভাবে চলে, code review; [`behavioural_interview`](../../behavioural_interview/docs/04-question-bank/02-questions-you-ask.md) মিলিয়ে 🧠 (Everything is a game)
+- [ ] ২৫′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: interviewer-কে আপনার পাঁচ প্রশ্ন; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — পাঁচটা প্রশ্ন জোরে, স্বাভাবিক গলায়
 
 > **দিন শেষে:** ৫টা প্রশ্ন লেখা?
@@ -50,7 +50,7 @@
 ### দিন ০৬৬ · তিন দৈর্ঘ্য — ১
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ story #১–#৩ দুই দৈর্ঘ্যে — ৩০ সেকেন্ড আর ৯০ সেকেন্ড; প্রতিটা রেকর্ড 🧠 (Deliberate practice)
+- [ ] ২৫′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: story #১–#৩ দুই দৈর্ঘ্যে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — ৩০ সেকেন্ডের সংস্করণে কোন অংশ বাদ গেল, কেন ঠিক
 
 > **দিন শেষে:** তিনটা story দুই দৈর্ঘ্যে বলা গেছে?
@@ -156,7 +156,7 @@
 ### দিন ০৮০ · তিন দৈর্ঘ্য — ২
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ story #৪–#৬ দুই দৈর্ঘ্যে — ৩০ সেকেন্ড আর ৯০ সেকেন্ড; প্রতিটা রেকর্ড 🧠 (Deliberate practice)
+- [ ] ২৫′ behavioural — [গ্লোবাল behavioural](https://sojibrd.github.io/behavioural_interview_global_company/)-এর আজকের দিন: story #৪–#৬ দুই দৈর্ঘ্যে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ইংরেজি — ব্যর্থতার story-র ৩০ সেকেন্ডের সংস্করণ, তিনবার
 
 > **দিন শেষে:** ছয়টা story-ই দুই দৈর্ঘ্যে আছে?
