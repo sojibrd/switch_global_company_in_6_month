@@ -16,7 +16,7 @@ offer পাওয়া লক্ষ্য নয় — কে নিয়ো
 
 আবেদন আর process-এর সংখ্যা, আর "দেশে থেকে রিমোট, relocation নয়" — ব্যবহারকারীর সিদ্ধান্ত (২০২৬-০৯-১৫)। বাকি কাজ আগে থেকে লেখা ফাইল থেকে দিনে ভাঙা। কোনো তথ্য বদলালে এই ক্রমে:
 
-1. `legacy_and_wisdom/docs/ASSUMPTIONS.md`
+1. `brainstorming/ASSUMPTIONS.md`
 2. `brainstorming/` — বিশেষ করে `dsa-prep-how-many-paths.md`, `dsa-prep-what-works-for-faang.md`, `system-design-what-works-for-faang.md`, `crack-remote-company-roadmap.md`, `how-to-write-my-cv.md`, `after-joining/11-next-jump.md`, `after-getting-response/`
 3. এই ফোল্ডার
 

@@ -44,7 +44,7 @@
 
 ### তথ্য বদলানোর ক্রম
 
-`legacy_and_wisdom/docs/ASSUMPTIONS.md` → `brainstorming/` (`dsa-prep-how-many-paths.md`, `*-what-works-for-faang.md`, `crack-remote-company-roadmap.md`, `how-to-write-my-cv.md`, `after-joining/11-next-jump.md`, `after-getting-response/`) → এই ফোল্ডারের `docs/`।
+`brainstorming/ASSUMPTIONS.md` → `brainstorming/` (`dsa-prep-how-many-paths.md`, `*-what-works-for-faang.md`, `crack-remote-company-roadmap.md`, `how-to-write-my-cv.md`, `after-joining/11-next-jump.md`, `after-getting-response/`) → এই ফোল্ডারের `docs/`।
 
 ### ব্লক ফাইলের যে ছাঁচ parser মানে
 
