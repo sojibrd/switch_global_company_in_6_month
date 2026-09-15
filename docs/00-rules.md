@@ -20,7 +20,7 @@ offer পাওয়া লক্ষ্য নয় — কে নিয়ো
 2. `brainstorming/` — বিশেষ করে `dsa-prep-how-many-paths.md`, `dsa-prep-what-works-for-faang.md`, `system-design-what-works-for-faang.md`, `crack-remote-company-roadmap.md`, `how-to-write-my-cv.md`, `after-joining/11-next-jump.md`, `after-getting-response/`
 3. এই ফোল্ডার
 
-এটা তিনটা বিকল্প plan-এর একটা — একজন একটাই চালায়: [লোকাল](https://sojibrd.github.io/switch_local_company_in_6_month/) · [রিমোট](https://sojibrd.github.io/switch_remote_company_in_6_month/) · **গ্লোবাল** (এটা)।
+এটা তিনটা বিকল্প plan-এর একটা — একজন একটাই চালায়: [লোকাল](https://sojibrd.github.io/switch_in_6_month_local_company/) · [রিমোট](https://sojibrd.github.io/switch_in_6_month_remote_company/) · **গ্লোবাল** (এটা)।
 
 **কখন:** brainstorming-এ গ্লোবাল কোনো stage-এ নেই — *"লক্ষ্য নয়, দিক"*। তবু plan-টা যেকোনো দিন শুরু করা যায় — সাইট প্রথমবার খুললে শুরুর তারিখ জিজ্ঞেস করে।
 

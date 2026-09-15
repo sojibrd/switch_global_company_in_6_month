@@ -1,10 +1,10 @@
-# switch_global_company_in_6_month
+# switch_in_6_month_global_company
 
 ১৮০ দিনের plan: দেশে থেকে big tech মানের কোম্পানিতে রিমোট — ১০টা আবেদন আর অন্তত ৩টা সম্পূর্ণ interview process। DSA, আটটা সিস্টেমের design, frontend system design আর behavioral — প্রতিদিন একটা করে করার কাজ, শেখার বিজ্ঞান মেনে।
 
-এটা তিনটা বিকল্প plan-এর একটা। একজন একটাই চালায়: [লোকাল](https://github.com/sojibrd/switch_local_company_in_6_month) · [রিমোট](https://github.com/sojibrd/switch_remote_company_in_6_month) · **গ্লোবাল** (এটা)। তিনটার কোড হুবহু এক।
+এটা তিনটা বিকল্প plan-এর একটা। একজন একটাই চালায়: [লোকাল](https://github.com/sojibrd/switch_in_6_month_local_company) · [রিমোট](https://github.com/sojibrd/switch_in_6_month_remote_company) · **গ্লোবাল** (এটা)। তিনটার কোড হুবহু এক।
 
-**লাইভ:** https://sojibrd.github.io/switch_global_company_in_6_month/
+**লাইভ:** https://sojibrd.github.io/switch_in_6_month_global_company/
 
 ## Functional Requirement
 

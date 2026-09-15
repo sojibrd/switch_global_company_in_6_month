@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: "export",
-  basePath: process.env.GITHUB_ACTIONS ? "/switch_global_company_in_6_month" : "",
+  basePath: process.env.GITHUB_ACTIONS ? "/switch_in_6_month_global_company" : "",
   trailingSlash: true,
   images: {
     unoptimized: true,
