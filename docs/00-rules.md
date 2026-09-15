@@ -61,7 +61,7 @@ FAANG (Google, Meta, Amazon…) বাংলাদেশ থেকে রিম�
 | রাউন্ড | কীভাবে আসে | এই plan-এ |
 |---|---|---|
 | **DSA** | ৪৫ মিনিটে ১–২টা প্রবলেম; সারাক্ষণ একজন শুনছেন আপনি কীভাবে ভাবছেন। সঠিক উত্তর অর্ধেক নম্বর — বাকি অর্ধেক প্রশ্ন করা, trade-off বলা, নিজের কোড নিজে test | গ্লোবাল DSA সাইট, রোজ |
-| **System design** | ৪৫ মিনিট, মুখে, ঘড়ির নিচে | [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/) — `designs/`-এর ছয় সেকশনের ছাঁচে ৮টা সিস্টেম, প্রতিটা লিখে তারপর ৪৫′-এ বলে |
+| **System design** | ৪৫ মিনিট, মুখে, ঘড়ির নিচে | [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/) — ছয় সেকশনের ছাঁচে ৮টা সিস্টেম, প্রতিটা লিখে তারপর ৪৫′-এ বলে |
 | **Frontend system design** | frontend পদে আলাদা রাউন্ড — component, state, ডেটা আনা ও cache, performance, accessibility | [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/) — ৬টা UI (autocomplete, news feed, infinite feed, file upload, chat, video player), ছয় ধাপে |
 | **Behavioral** | ছয়টা signal — দায়িত্ব, মতবিরোধ, ব্যর্থতা, অস্পষ্টতা, প্রভাব, শেখা | ৬ STAR story, এলোমেলো প্রশ্নে |
 
@@ -187,7 +187,7 @@ FAANG (Google, Meta, Amazon…) বাংলাদেশ থেকে রিম�
 - **mock এড়িয়ে একা অনুশীলন নয়।** একা পারা আর কারও সামনে পারা আলাদা দক্ষতা।
 - **design doc না লিখে ডক পড়া নয়।** ২৫টা ডক রেফারেন্স হিসেবে যথেষ্ট।
 - **নাম না যাচাই করে তালিকায় তোলা নয়** — রিমোটে বাংলাদেশ থেকে নেয় কিনা, আগে দেখা।
-- **নতুন প্রজেক্ট নয়।** pin থাকবে তিনটা — `dsa_prep_local_company`, `system_design`, `srdtube`।
+- **নতুন প্রজেক্ট নয়।** pin থাকবে তিনটা — `dsa_prep_local_company`, `system_design_local_company`, `srdtube`।
 - **"প্রস্তুত হয়ে আবেদন করব" নয়।** প্রথম interview-গুলো খারাপ যাবে — ওগুলোই আসল প্রস্তুতি।
 - **বর্তমান চাকরি ছাড়বেন না।** বেতন হাতে রেখে খোঁজাই সবচেয়ে শক্ত অবস্থান।
 

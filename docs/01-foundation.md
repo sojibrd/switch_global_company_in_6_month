@@ -169,7 +169,7 @@
 ### দিন ০২১ · README #১–৩
 
 - [ ] ১০′ সপ্তাহের হিসাব
-- [ ] ৪৫′ README ইংরেজিতে এক প্যারা — pin করা তিনটা: `dsa_prep_local_company`, `system_design`, `srdtube`; প্রতিটায় কী সমস্যা, কী সমাধান, একটা সংখ্যা বা scope 🧠 (Pareto)
+- [ ] ৪৫′ README ইংরেজিতে এক প্যারা — pin করা তিনটা: `dsa_prep_local_company`, `system_design_local_company`, `srdtube`; প্রতিটায় কী সমস্যা, কী সমাধান, একটা সংখ্যা বা scope 🧠 (Pareto)
 - [ ] ১৫′ ইংরেজি — না দেখে একটা প্রজেক্ট ৬০ সেকেন্ডে
 
 > **দিন শেষে:** তিনটা README-তে ইংরেজি প্যারা আছে?

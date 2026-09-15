@@ -11,7 +11,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 ### দিন ০৩১ · GitHub প্রোফাইল
 
 - [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ GitHub প্রোফাইল পরিষ্কার — pin শুধু `dsa_prep_local_company`, `system_design`, `srdtube`; প্রোফাইল README-তে ইংরেজিতে ৩ লাইন: কে, কী বানান, *"Open to remote (UTC+6)"* 🧠 (Pareto)
+- [ ] ২৫′ GitHub প্রোফাইল পরিষ্কার — pin শুধু `dsa_prep_local_company`, `system_design_local_company`, `srdtube`; প্রোফাইল README-তে ইংরেজিতে ৩ লাইন: কে, কী বানান, *"Open to remote (UTC+6)"* 🧠 (Pareto)
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
 > **দিন শেষে:** GitHub-এ ঠিক তিনটা pin?
