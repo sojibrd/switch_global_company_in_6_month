@@ -62,7 +62,7 @@ FAANG (Google, Meta, Amazon…) বাংলাদেশ থেকে রিম�
 |---|---|---|
 | **DSA** | ৪৫ মিনিটে ১–২টা প্রবলেম; সারাক্ষণ একজন শুনছেন আপনি কীভাবে ভাবছেন। সঠিক উত্তর অর্ধেক নম্বর — বাকি অর্ধেক প্রশ্ন করা, trade-off বলা, নিজের কোড নিজে test | গ্লোবাল DSA সাইট, রোজ |
 | **System design** | ৪৫ মিনিট, মুখে, ঘড়ির নিচে | [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/) — `designs/`-এর ছয় সেকশনের ছাঁচে ৮টা সিস্টেম, প্রতিটা লিখে তারপর ৪৫′-এ বলে |
-| **Frontend system design** | frontend পদে আলাদা রাউন্ড — component, state, ডেটা আনা ও cache, performance, accessibility | ৩টা UI, ছয় ধাপে |
+| **Frontend system design** | frontend পদে আলাদা রাউন্ড — component, state, ডেটা আনা ও cache, performance, accessibility | [গ্লোবাল system design](https://sojibrd.github.io/system_design_global_company/) — ৬টা UI (autocomplete, news feed, infinite feed, file upload, chat, video player), ছয় ধাপে |
 | **Behavioral** | ছয়টা signal — দায়িত্ব, মতবিরোধ, ব্যর্থতা, অস্পষ্টতা, প্রভাব, শেখা | ৬ STAR story, এলোমেলো প্রশ্নে |
 
 **সংখ্যা জমান।** কত ব্যবহারকারী, কত শতাংশ দ্রুত, কত সময় বাঁচল — কাজ করার সময়ই নোট করুন; big tech-এর interviewer ঠিক ঐ সংখ্যা ধরেই প্রশ্ন করেন।
