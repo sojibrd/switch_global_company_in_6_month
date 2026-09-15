@@ -2,15 +2,15 @@
 
 *দিন ০৩১–০৬০*
 
-big tech-এর system design রাউন্ড ৪৫ মিনিট, মুখে, ঘড়ির নিচে। এই ব্লকে ছাঁচটা হাতে আসে: `srdtube`-এর **ইংরেজি design doc**, আর আগে থেকে তিন লেভেলে করা **URL shortener আর rate limiter ৪৫′-এ মুখে।** পাশাপাশি big tech-এর "Tell me about yourself", story → signal ম্যাপ, আর mock-এর সঙ্গী। লোকাল DSA দিন ০৪৭-এ শেষ, **দিন ০৫০ থেকে রিমোট DSA।**
+big tech-এর system design রাউন্ড ৪৫ মিনিট, মুখে, ঘড়ির নিচে। এই ব্লকে ছাঁচটা হাতে আসে: `srdtube`-এর **ইংরেজি design doc**, আর আগে থেকে তিন লেভেলে করা **URL shortener আর rate limiter ৪৫′-এ মুখে।** পাশাপাশি big tech-এর "Tell me about yourself", story → signal ম্যাপ, আর mock-এর সঙ্গী। গ্লোবাল DSA চলছে, **দিন ০৩৪-এ প্রথম DSA mock।**
 
-মাইলফলক: `srdtube`-এর design doc (দিন ০৩৪), URL shortener মুখে (দিন ০৩৫), লোকাল DSA শেষ (দিন ০৪৭), mock-এর সঙ্গী (দিন ০৪৮), রিমোট DSA শুরু (দিন ০৫০)।
+মাইলফলক: DSA mock #১ (দিন ০৩৪), `srdtube`-এর design doc (দিন ০৩৫), URL shortener মুখে (দিন ০৪১), mock-এর সঙ্গী (দিন ০৪৭)।
 
-> **ব্লক শেষে:** ৪টা আবেদন, `srdtube`-এর ইংরেজি design doc, URL shortener আর rate limiter ৪৫′-এ বলা, রিমোট DSA চলছে, mock-এর সঙ্গী আছে?
+> **ব্লক শেষে:** ৪টা আবেদন, `srdtube`-এর ইংরেজি design doc, URL shortener আর rate limiter ৪৫′-এ বলা, DSA mock #১ হয়েছে, mock-এর সঙ্গী আছে?
 
 ### দিন ০৩১ · GitHub প্রোফাইল
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ GitHub প্রোফাইল পরিষ্কার — pin শুধু `dsa_prep_local_company`, `system_design`, `srdtube`; প্রোফাইল README-তে ইংরেজিতে ৩ লাইন: কে, কী বানান, *"Open to remote (UTC+6)"* 🧠 (Pareto)
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -18,7 +18,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 ### দিন ০৩২ · state কোথায়
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ frontend design-এর মূল প্রশ্ন — **কোন state কোথায়:** component, service/store, নাকি URL; তিনটার প্রতিটায় নিজের কাজ থেকে একটা উদাহরণ, আর ভুল জায়গায় রাখলে কী ভাঙে 🔁 🧠 (Feynman · Concepts vs Facts)
 - [ ] ১৫′ ইংরেজি — উদাহরণ তিনটা জোরে
 
@@ -26,44 +26,44 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 ### দিন ০৩৩ · বার্তা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ বার্তা ×১ — তৃতীয় আবেদনের কোম্পানিতে রেফারেলের জন্য
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
 > **দিন শেষে:** বার্তা গেছে?
 
-### দিন ০৩৪ · design doc — srdtube
+### দিন ০৩৪ · DSA mock #১
 
-- [ ] ৬০′ ⚑ `srdtube`-এর **design doc, ইংরেজিতে, ছয় সেকশন** — কী বানিয়েছি → কতজন ব্যবহারকারী ধরে (quota থেকে হিসাব) → সিদ্ধান্ত (৫০-id batching, auto-pagination বন্ধ) → যা বাদ দিলাম → গঠন → কোথায় ভাঙবে; বুলেটে, এক বসায় 🧠 (Active learning · Trunk based knowledge)
+- [ ] ৬০′ ⚑ DSA — [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এর আজকের দিন: **mock** — ৪৫′, একটা প্রবলেম, রেকর্ড চালু, interview-এর পাঁচ ধাপ; শেষে ১৫′ রেকর্ডিংয়ের হিসাব ঐ সাইটে 🧠 (Everything is a game · Deep work)
+
+> **দিন শেষে:** DSA mock হয়েছে, রেকর্ডিং শুনেছেন?
+
+### দিন ০৩৫ · design doc — srdtube
+
+- [ ] ১০′ সপ্তাহের হিসাব
+- [ ] ৫০′ ⚑ `srdtube`-এর **design doc, ইংরেজিতে, ছয় সেকশন** — কী বানিয়েছি → কতজন ব্যবহারকারী ধরে (quota থেকে হিসাব) → সিদ্ধান্ত (৫০-id batching, auto-pagination বন্ধ) → যা বাদ দিলাম → গঠন → কোথায় ভাঙবে; বুলেটে, এক বসায় 🧠 (Active learning · Trunk based knowledge)
 
 > **দিন শেষে:** ছয় সেকশনই লেখা?
 
-### দিন ০৩৫ · URL shortener, ৪৫′
-
-- [ ] ১০′ সপ্তাহের হিসাব
-- [ ] ৪৫′ ⚑ **URL shortener — ৪৫′ টাইমারে, মুখে, ইংরেজিতে** — লেখা বন্ধ, কাগজে আঁকতে আঁকতে; functional → reliable → scalable, প্রতিটা ধাপে কেন; ফোনে রেকর্ড। আগে থেকে জানা জিনিস, তাই এখানে পরীক্ষা জ্ঞানের নয় — বলার 🔁 🧠 (Test yourself · Deep work)
-
-> **দিন শেষে:** ৪৫ মিনিটে তিন লেভেল পর্যন্ত গেছে?
-
 ### দিন ০৩৬ · বার্তা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ বার্তা ×১
-- [ ] ১৫′ ইংরেজি — কালকের রেকর্ডিং থেকে একটা বাক্য, এবার পরিষ্কার করে
+- [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
 > **দিন শেষে:** বার্তা গেছে?
 
-### দিন ০৩৭ · কোথায় ভাঙবে
+### দিন ০৩৭ · স্কেলের অনুমান — chat
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ URL shortener রেকর্ডিং শুনে তিনটা জিনিস — কোথায় চুপ হলেন, scope কি শুরুতে বলেছিলেন, "কোথায় ভাঙবে" নিজে থেকে এসেছে কি; সবচেয়ে দুর্বলটা এক লাইনে 🧠 (Feedback)
-- [ ] ১৫′ ইংরেজি — *"What happens if traffic grows 10×?"* — সহজ উত্তর আগে
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ২৫′ পরের ব্লকের একটা সিস্টেম — **chat**-এর স্কেলের অনুমান আগে থেকে: কতজন একসাথে online, দিনে কত বার্তা, কত জায়গা; সংখ্যা নিজে ধরে নিন আর লিখে রাখুন কেন 🔁 🧠 (Test yourself)
+- [ ] ১৫′ ইংরেজি — হিসাবটা জোরে, সংখ্যাসহ
 
-> **দিন শেষে:** সবচেয়ে দুর্বল জায়গাটা লেখা?
+> **দিন শেষে:** chat-এর অনুমান লেখা?
 
 ### দিন ০৩৮ · Tell me about yourself
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ ৬০ সেকেন্ডের **"Tell me about yourself"** ইংরেজিতে — এখন কী করেন (একটা সংখ্যাসহ) → কীভাবে এলেন → কেন এই পদ; তারপর পাঁচবার জোরে 🔁 🧠 (Active learning)
 - [ ] ১৫′ ইংরেজি — ২ মিনিট নিজের কাজ নিয়ে, রেকর্ড; ফাইলটা `baseline` নামে রেখে দিন — দিন ১৭৫-এ তুলনা হবে 🧠 (Feedback)
 
@@ -71,7 +71,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 ### দিন ০৩৯ · news feed UI, মুখে
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ *"Design a news feed UI"* — ছয় ধাপে ইংরেজিতে জোরে: চাহিদা → component → state → ডেটা আনা ও cache (পাতা ধরে আনা) → performance (লম্বা তালিকা) → accessibility; কাগজে আঁকতে আঁকতে 🔁 🧠 (Chunk the subject · The power of senses)
 - [ ] ১৫′ ইংরেজি — কোন ধাপে সবচেয়ে কম বলার ছিল
 
@@ -79,18 +79,18 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 ### দিন ০৪০ · mock-এর সঙ্গী খোঁজা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ mock interview-এর সঙ্গী — ইংরেজিতে DSA বা design interview নিতে পারে এমন ৩ জনের নাম, তিনজনকেই বার্তা: দিন ১০৪ থেকে মাসে একবার ৪৫′; বদলে আপনিও তার interviewer হবেন 🧠 (Community)
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
 > **দিন শেষে:** তিনজনকে বার্তা গেছে?
 
-### দিন ০৪১ · rate limiter, ৪৫′
+### দিন ০৪১ · URL shortener, ৪৫′
 
-- [ ] ৪৫′ **rate limiter — ৪৫′ টাইমারে, মুখে, ইংরেজিতে** — প্রশ্ন আর scope আগে, তারপর সহজ কাজ-করা ডিজাইন, তারপর ধাপে ধাপে; রেকর্ড 🔁 🧠 (Test yourself · Deep work)
-- [ ] ১৫′ রেকর্ডিং শুনে তিনটা জিনিস — চুপ, scope, "ভাঙবে"; দিন ০৩৭-এর দুর্বলতাটা এবার ঠিক হলো কি 🧠 (Feedback · Deliberate practice)
+- [ ] ৪৫′ ⚑ **URL shortener — ৪৫′ টাইমারে, মুখে, ইংরেজিতে** — লেখা বন্ধ, কাগজে আঁকতে আঁকতে; functional → reliable → scalable, প্রতিটা ধাপে কেন; ফোনে রেকর্ড। আগে থেকে জানা জিনিস, তাই এখানে পরীক্ষা জ্ঞানের নয় — বলার 🔁 🧠 (Test yourself · Deep work)
+- [ ] ১৫′ ইংরেজি — যেখানে চুপ হলেন, সেই বাক্যটা এবার পরিষ্কার করে 🧠 (Feedback)
 
-> **দিন শেষে:** আগের দুর্বলতাটা এবার কম?
+> **দিন শেষে:** ৪৫ মিনিটে তিন লেভেল পর্যন্ত গেছে?
 
 ### দিন ০৪২ · তৃতীয় আবেদন
 
@@ -102,23 +102,23 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 ### দিন ০৪৩ · বার্তা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ বার্তা ×১ — প্রথম আবেদনে সাড়া না এলে একবার follow-up
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
 > **দিন শেষে:** বার্তা গেছে?
 
-### দিন ০৪৪ · স্কেলের অনুমান — chat
+### দিন ০৪৪ · কোথায় ভাঙবে
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ২৫′ পরের ব্লকের প্রথম সিস্টেম — **chat**-এর স্কেলের অনুমান আগে থেকে: কতজন একসাথে online, দিনে কত বার্তা, কত জায়গা; সংখ্যা নিজে ধরে নিন আর লিখে রাখুন কেন 🔁 🧠 (Test yourself)
-- [ ] ১৫′ ইংরেজি — হিসাবটা জোরে, সংখ্যাসহ
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ২৫′ URL shortener রেকর্ডিং শুনে তিনটা জিনিস — কোথায় চুপ হলেন, scope কি শুরুতে বলেছিলেন, "কোথায় ভাঙবে" নিজে থেকে এসেছে কি; সবচেয়ে দুর্বলটা এক লাইনে 🧠 (Feedback)
+- [ ] ১৫′ ইংরেজি — *"What happens if traffic grows 10×?"* — সহজ উত্তর আগে
 
-> **দিন শেষে:** chat-এর অনুমান লেখা?
+> **দিন শেষে:** সবচেয়ে দুর্বল জায়গাটা লেখা?
 
 ### দিন ০৪৫ · story → signal
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ story → signal ম্যাপ — দায়িত্ব, মতবিরোধ, ব্যর্থতা, অস্পষ্টতা, প্রভাব, শেখা; প্রতিটায় অন্তত একটা story? ফাঁক কোথায় — [`behavioural_interview`](../../behavioural_interview/docs/02-stories/06-story-signal-map.md) মিলিয়ে 🧠 (Chunk the subject)
 - [ ] ১৫′ ইংরেজি — ফাঁকের signal-এর জন্য কোন story বদলানো যায়, ১ মিনিট
 
@@ -126,27 +126,26 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 ### দিন ০৪৬ · modal-এর accessibility
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ **Modal, focus trap সহ** — খুললে focus ভেতরে, Tab ঘোরে ভেতরেই, Esc-এ বন্ধ, বন্ধ হলে focus আগের বোতামে; ছোট কোডে, টাইমার ২৫′ 🔁 🧠 (Deliberate practice · Parkinson's law)
 - [ ] ১৫′ ইংরেজি — কেন focus ফেরাতে হয়, ৩০ সেকেন্ডে
 
 > **দিন শেষে:** keyboard দিয়ে সব কাজ করে?
 
-### দিন ০৪৭ · লোকালের ৩০টা — শেষ
+### দিন ০৪৭ · সঙ্গী নিশ্চিত
 
-- [ ] ৩০′ ⚑ DSA — [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এর শেষ দিন; ৩০টা শেষ। নতুন প্রবলেম ঐ সাইটে আর নয় 🧠 (Deliberate practice · Have an endpoint)
-- [ ] ১৫′ বার্তা ×১
-- [ ] ১৫′ ইংরেজি — ৩০টার মধ্যে সবচেয়ে কঠিনটা, approach জোরে
-
-> **দিন শেষে:** লোকালের ৩০টা শেষ?
-
-### দিন ০৪৮ · ছয় story, সঙ্গী নিশ্চিত
-
-- [ ] ৪০′ ছয় story, এলোমেলো — প্রশ্ন ব্যাংক থেকে ৪টা নতুন প্রশ্ন, একই signal-এর দুটো পরপর নয়; নোট বন্ধ, ইংরেজিতে রেকর্ড 🧠 (Interleaving · Test yourself)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১০′ ⚑ mock-এর সঙ্গী নিশ্চিত — কে, আর প্রথম mock-এর দিন (দিন ১০৪) 🧠 (Community)
-- [ ] ১০′ ইংরেজি — কোন প্রশ্নে কোন story বাছলেন, কেন
+- [ ] ১৫′ বার্তা ×১
 
-> **দিন শেষে:** ৬ story, লোকালের ৩০ DSA, mock-এর সঙ্গী — তিনটাই আছে?
+> **দিন শেষে:** mock-এর সঙ্গী নিশ্চিত, বার্তা গেছে?
+
+### দিন ০৪৮ · rate limiter, ৪৫′
+
+- [ ] ৪৫′ **rate limiter — ৪৫′ টাইমারে, মুখে, ইংরেজিতে** — প্রশ্ন আর scope আগে, তারপর সহজ কাজ-করা ডিজাইন, তারপর ধাপে ধাপে; রেকর্ড 🔁 🧠 (Test yourself · Deep work)
+- [ ] ১৫′ রেকর্ডিং শুনে তিনটা জিনিস — চুপ, scope, "ভাঙবে"; দিন ০৪৪-এর দুর্বলতাটা এবার ঠিক হলো কি 🧠 (Feedback · Deliberate practice)
+
+> **দিন শেষে:** আগের দুর্বলতাটা এবার কম?
 
 ### দিন ০৪৯ · srdtube, ৪৫′
 
@@ -155,17 +154,17 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 > **দিন শেষে:** doc না দেখে ছয় সেকশনই বলা গেছে?
 
-### দিন ০৫০ · রিমোট DSA শুরু, Dip-এর নিয়ম
+### দিন ০৫০ · Dip-এর নিয়ম, ছয় story
 
-- [ ] ৩০′ ⚑ DSA — [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ শুরুর তারিখ = আজ, তারপর আজকের দিন; **টাইমার, সাদা editor, ইংরেজিতে জোরে** 🧠 (Deliberate practice · Test yourself)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১০′ `00-rules.md`-এর Dip-এর নিয়ম নিজের ভাষায় ৩ লাইনে — কাগজে, ল্যাপটপের পাশে 🧠 (The dip)
-- [ ] ১৫′ ইংরেজি — "উত্তর দেরিতে এলে কী করব" — নিজেকে ১ মিনিট বলুন
+- [ ] ২৫′ ছয় story, এলোমেলো — প্রশ্ন ব্যাংক থেকে ৩টা নতুন প্রশ্ন, একই signal-এর দুটো পরপর নয়; নোট বন্ধ, ইংরেজিতে রেকর্ড 🧠 (Interleaving · Test yourself)
 
-> **দিন শেষে:** রিমোট DSA-র প্রথম দিন হয়েছে, Dip-এর নিয়ম কাগজে?
+> **দিন শেষে:** Dip-এর নিয়ম কাগজে, আর ৩টা প্রশ্নে story খাপ খেয়েছে?
 
 ### দিন ০৫১ · যা বাদ দিলাম
 
-- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ **scoping** — URL shortener, rate limiter, `srdtube`: প্রতিটায় ৩টা জিনিস যা ইচ্ছাকৃতভাবে বাদ, আর কেন; interviewer সবচেয়ে বেশি নম্বর দেন যখন আপনি নিজে থেকে বলেন কী আলোচনার বাইরে 🔁 🧠 (Pareto)
 - [ ] ১৫′ ইংরেজি — *"For this interview I'd leave out… because…"* — তিনবার
 
@@ -173,7 +172,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 ### দিন ০৫২ · follow-up প্রশ্নে টেকা
 
-- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ story #১–#৩ — প্রতিটায় তিনটা follow-up: *"Why did you choose that?" · "What was the result, exactly?" · "What would you do differently?"*; রেকর্ড 🧠 (Test yourself)
 - [ ] ১৫′ ইংরেজি — যে follow-up-এ থামলেন, সেটার উত্তর আবার, ধীরে
 
@@ -181,7 +180,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 ### দিন ০৫৩ · news feed UI, আবার
 
-- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ news feed UI আবার, এবার দিন ০৩৯-এর দুর্বল ধাপ ধরে — like চাপলে সঙ্গে সঙ্গে দেখানো (optimistic update) আর ব্যর্থ হলে ফেরানো; ২০′ টাইমার 🔁 🧠 (Deliberate practice · Parkinson's law)
 - [ ] ১৫′ ইংরেজি — optimistic update কেন আর কখন নয়
 
@@ -189,7 +188,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 ### দিন ০৫৪ · follow-up
 
-- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ৭–১০ দিন আগের আবেদনে একবার follow-up · বার্তা ×১
 - [ ] ১৫′ ইংরেজি — আজকের প্রবলেমের approach জোরে
 
@@ -212,7 +211,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 ### দিন ০৫৭ · বার্তা
 
-- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ বার্তা ×১
 - [ ] ১৫′ ইংরেজি — story #৬ (ব্যর্থতা) — "তারপর থেকে কী আলাদা করি" আরও নির্দিষ্ট করে
 
@@ -220,7 +219,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 ### দিন ০৫৮ · বেতন — উৎস ১
 
-- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ বেতনের তথ্য, উৎস ১ — big tech মানের কোম্পানিতে রিমোটে কাজ করা একজনকে জিজ্ঞেস: আপনার অভিজ্ঞতায় কোন level, কত, EOR নাকি contract; তারপর দেখুন $১,৭০০-এর সীমা তোলার মতো তথ্য আছে কি না — তোলা যায়, নামানো নয় 🧠 (Trust this one person)
 - [ ] ১৫′ ইংরেজি — *"What level is this role, and what's the range?"*
 
@@ -228,7 +227,7 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 ### দিন ০৫৯ · Why this company
 
-- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ "Why this company?"-এর ছাঁচ — ওদের প্রোডাক্টের একটা নির্দিষ্ট জিনিস, ওদের স্কেলের একটা সমস্যা যা আপনাকে টানে, আর আপনার একটা কাজ যা ওখানে খাটে; তালিকার দুটো কোম্পানিতে ভরে 🔁 🧠 (Everything is a game)
 - [ ] ১৫′ ইংরেজি — দুটোই জোরে, একটার পর একটা
 
@@ -236,8 +235,8 @@ big tech-এর system design রাউন্ড ৪৫ মিনিট, মু�
 
 ### দিন ০৬০ · ব্লক ২-এর হিসাব
 
-- [ ] ৩০′ DSA — আজকের দিন [রিমোট DSA](https://sojibrd.github.io/dsa_prep_remote_company/)-এ, ঘড়ি ধরে, ইংরেজিতে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
-- [ ] ১৫′ ব্লক ২-এর হিসাব — ৪ আবেদন, `srdtube` doc, তিনটা ৪৫′-এর রেকর্ডিং, লোকালের ৩০ DSA, mock-এর সঙ্গী, চারটা ধারণা: কোনটা বাকি, এক লাইনে 🧠 (It's all in the frame)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ১৫′ ব্লক ২-এর হিসাব — ৪ আবেদন, `srdtube` doc, তিনটা ৪৫′-এর রেকর্ডিং, DSA mock #১, mock-এর সঙ্গী, চারটা ধারণা: কোনটা বাকি, এক লাইনে 🧠 (It's all in the frame)
 - [ ] ১৫′ ইংরেজি — "Tell me about yourself", রেকর্ড — `baseline`-এর সাথে একবার শুনে দেখুন
 
 > **দিন শেষে:** এ পর্যন্ত ৪টা আবেদন, আর তিনটা সিস্টেম ৪৫′-এ বলা?

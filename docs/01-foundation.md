@@ -64,7 +64,7 @@
 
 ### দিন ০০৮ · DSA শুরু
 
-- [ ] ৩০′ DSA — [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ শুরুর তারিখ = আজ, তারপর আজকের প্রবলেম; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ শুরুর তারিখ = আজ, তারপর আজকের প্রবলেম, প্রথম দিন থেকে interview-এর ধাপে (clarify → brute force → optimize → code → test), ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice · Everything is a game)
 - [ ] ১৫′ বার্তা ×১ — কালকের মানচিত্রের একজনকে, ৩ লাইনের ছাঁচে 🧠 (Community)
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -72,7 +72,7 @@
 
 ### দিন ০০৯ · design doc-এর ছাঁচ
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ `system_design`-এর `designs/` ছাঁচের ছয় সেকশন নিজের ভাষায় একটা কার্ডে — কী বানাচ্ছি → স্কেলের অনুমান → সিদ্ধান্ত → যা ইচ্ছাকৃতভাবে বাদ দিলাম → আর্কিটেকচার → যেখানে ভাঙবে; প্রতিটার পাশে এক লাইনে কেন ঐ সেকশন নম্বর আনে 🔁 🧠 (Chunk the subject · Trunk based knowledge)
 - [ ] ১৫′ ইংরেজি — কার্ড না দেখে ছয় সেকশন বলুন
 
@@ -80,7 +80,7 @@
 
 ### দিন ০১০ · STAR #২
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ STAR #২ — **কঠিন কারিগরি সিদ্ধান্ত:** অফিসের কোনো architecture বা library বাছাই; কী কী বিকল্প ছিল, কেন এটা 🔁 🧠 (Feynman)
 - [ ] ১৫′ ইংরেজি — story #২ রেকর্ড, ৯০ সেকেন্ড
 
@@ -88,7 +88,7 @@
 
 ### দিন ০১১ · টাকা আনার পথ
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ টাকা আনার পথ বাছাই — Payoneer নাকি ব্যাংকে রেমিট্যান্স; প্রতিটায় কী কাগজ লাগে, কত সময়, এক পাতায় পাশাপাশি 🧠 (Concepts vs Facts)
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -96,7 +96,7 @@
 
 ### দিন ০১২ · বার্তা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ বার্তা ×১ — প্রথম আবেদনের কোম্পানিতে রেফারেলের জন্য
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -121,7 +121,7 @@
 
 ### দিন ০১৫ · বার্তা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ বার্তা ×১ — তালিকার পরের কোম্পানির সংযোগকে
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -129,7 +129,7 @@
 
 ### দিন ০১৬ · স্কেলের অনুমান — ১
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ URL shortener-এর **স্কেলের অনুমান** না দেখে আবার — দিনে কত লেখা, কত পড়া, কত জায়গা; তারপর `designs/`-এর নিজের ডকের সাথে মিলিয়ে; অনুমান ছাড়া প্রতিটা সিদ্ধান্ত আন্দাজ 🔁 🧠 (Test yourself)
 - [ ] ১৫′ ইংরেজি — হিসাবটা জোরে, সংখ্যাসহ
 
@@ -137,7 +137,7 @@
 
 ### দিন ০১৭ · STAR #৪
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ STAR #৪ — **মতবিরোধ:** code review-তে দ্বিমত, বা deadline নিয়ে PM-এর সাথে টানাপোড়েন — ঝগড়া নয়, দ্বিমত সত্ত্বেও কাজ কীভাবে এগোল 🔁 🧠 (Feynman)
 - [ ] ১৫′ ইংরেজি — story #৪ রেকর্ড
 
@@ -145,7 +145,7 @@
 
 ### দিন ০১৮ · frontend design-এর ক্রম
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ frontend system design রাউন্ডের **ছয় ধাপ** একটা কার্ডে — চাহিদা → component → state কোথায় → ডেটা আনা ও cache → performance → accessibility; প্রতিটায় নিজের কাজ থেকে একটা উদাহরণ 🔁 🧠 (Chunk the subject)
 - [ ] ১৫′ ইংরেজি — কার্ড না দেখে ছয় ধাপ
 
@@ -153,7 +153,7 @@
 
 ### দিন ০১৯ · follow-up
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ বার্তা ×১ · রেফারেলের বার্তায় সাড়া না এলে একবার ভদ্র follow-up
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -177,7 +177,7 @@
 
 ### দিন ০২২ · বার্তা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ বার্তা ×১ — দ্বিতীয় আবেদনের কোম্পানিতে রেফারেলের জন্য
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -185,7 +185,7 @@
 
 ### দিন ০২৩ · স্কেলের অনুমান — ২
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ rate limiter-এর **স্কেলের অনুমান আর সিদ্ধান্ত** না দেখে — কোন algorithm, কোথায় বসে, কী জমা থাকে; তারপর নিজের ডকের সাথে মিলিয়ে 🔁 🧠 (Test yourself)
 - [ ] ১৫′ ইংরেজি — কেন ঐ algorithm, trade-off সহ
 
@@ -193,7 +193,7 @@
 
 ### দিন ০২৪ · STAR #৬ — ব্যর্থতা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ ⚑ STAR #৬ — **ব্যর্থতা:** সত্যিকারের একটা ভুল — কী ভুল, দোষ কোথায় আপনার, **তারপর থেকে কী আলাদা করেন** 🔁 🧠 (Failures don't count)
 - [ ] ১৫′ ইংরেজি — story #৬ রেকর্ড
 
@@ -201,7 +201,7 @@
 
 ### দিন ০২৫ · autocomplete, মুখে
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ২৫′ *"Design an autocomplete UI"* — দিন ০১৮-এর ছয় ধাপে ইংরেজিতে জোরে, কাগজে আঁকতে আঁকতে; রেকর্ড 🔁 🧠 (Active learning · The power of senses)
 - [ ] ১৫′ ইংরেজি — রেকর্ডিং শুনে কোন ধাপ বাদ পড়ল
 
@@ -209,7 +209,7 @@
 
 ### দিন ০২৬ · বার্তা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ বার্তা ×১ · রেফারেলে সাড়া না এলে follow-up
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -232,7 +232,7 @@
 
 ### দিন ০২৯ · বার্তা
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ বার্তা ×১
 - [ ] ১৫′ ইংরেজি — আজকের DSA প্রবলেমের approach জোরে
 
@@ -240,7 +240,7 @@
 
 ### দিন ০৩০ · ব্লক ১-এর হিসাব
 
-- [ ] ৩০′ DSA — আজকের দিন [লোকাল DSA](https://sojibrd.github.io/dsa_prep_local_company/)-এ; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
+- [ ] ৩০′ DSA — আজকের দিন [গ্লোবাল DSA](https://sojibrd.github.io/dsa_prep_global_company/)-এ, interview-এর ধাপে, ইংরেজিতে জোরে; ঝালাইও ঐ সাইটে 🧠 (Deliberate practice)
 - [ ] ১৫′ ব্লক ১-এর হিসাব — ২ আবেদন, ১৫টা নাম, রেফারেলের মানচিত্র, টাকার ব্যবস্থা, ৬ story, ৩ README, ছাঁচের দুই কার্ড: কোনটা বাকি, এক লাইনে কেন; "আমি পারিনি" নয়, "এখনো ___-এ আছি" 🧠 (It's all in the frame)
 - [ ] ১৫′ ইংরেজি — এই ৩০ দিনে কী বদলেছে, ১ মিনিট, রেকর্ড
 

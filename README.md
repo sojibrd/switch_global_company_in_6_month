@@ -20,7 +20,7 @@
 - **সত্যের উৎস `docs/`।** কোডে কোনো ব্লক, দিন বা কাজ হার্ডকোড নেই।
 - **ফাইলে তারিখ নেই।** তারিখ = শুরুর তারিখ + (দিন − ১); শুরুর তারিখ ব্রাউজারে। দিন ০০১ = সোমবার ধরে লেখা।
 - **"আজ" = ক্যালেন্ডারের তারিখ।** plan পেছায় না। বাদ পড়া সাধারণ কাজ ফেরে না; শুধু ⚑ জমে থাকে।
-- **DSA এই সাইটে নয়,** তিন সাইটে পরপর: দিন ০০৮–০৪৭ [`dsa_prep_local_company`](https://sojibrd.github.io/dsa_prep_local_company/), দিন ০৫০–০৯৮ [`dsa_prep_remote_company`](https://sojibrd.github.io/dsa_prep_remote_company/), দিন ০৯৯ থেকে [`dsa_prep_global_company`](https://sojibrd.github.io/dsa_prep_global_company/) — দিন ১৮০-তে ওর দিন ০৮২, ইচ্ছাকৃত।
+- **DSA এই সাইটে নয়।** দিন ০০৮–১৭৫ [`dsa_prep_global_company`](https://sojibrd.github.io/dsa_prep_global_company/) — ১১০টা প্রবলেম, ১৮০ দিনের মধ্যেই শেষ; ঐ সাইটের সাতটা DSA mock এই plan-এর শনিবারে (দিন ০৩৪, ০৬২, ০৯০, ১১৮, ১৪৬, ১৬৭, ১৭৪)।
 - **Static export → GitHub Pages।** Backend নেই।
 - **Progress শুধু `localStorage`-এ,** একমাত্র `app/hooks/useProgress.ts` দিয়ে। **`app/lib/plan.ts` server-only।**
 - **তিন plan-এর কোড এক।** পার্থক্য শুধু `app/lib/site.ts`, `next.config.ts`-এর basePath আর `docs/`। কোড বদলালে তিন repo-তেই একই বদল।
@@ -31,11 +31,11 @@
 
 | ফাইল | দিন | Gist |
 |---|---|---|
-| [docs/00-rules.md](docs/00-rules.md) | — | লক্ষ্য (১০ আবেদন, ৩ process; সীমা $১,৭০০), কেন ১০, সত্যের উৎস, বাজারের দুই শর্ত (big tech মানের loop + বাংলাদেশ থেকে রিমোট), চার রাউন্ড, সপ্তাহের ছন্দ, DSA-র তিন সাইট (দিনে ৩০′-এ থামে), design-এর বসা আর আট সিস্টেম, আবেদন ও interview-এর নিয়ম, Dip-এর নিয়ম, যা করবেন না, টাকা, দিন ১৮০-র পরে |
+| [docs/00-rules.md](docs/00-rules.md) | — | লক্ষ্য (১০ আবেদন, ৩ process; সীমা $১,৭০০), কেন ১০, সত্যের উৎস, বাজারের দুই শর্ত (big tech মানের loop + বাংলাদেশ থেকে রিমোট), চার রাউন্ড, সপ্তাহের ছন্দ, DSA-র সাইট (দিন ০০৮–১৭৫, সাত শনিবারে mock), design-এর বসা আর আট সিস্টেম, আবেদন ও interview-এর নিয়ম, Dip-এর নিয়ম, যা করবেন না, টাকা, দিন ১৮০-র পরে |
 | [docs/01-foundation.md](docs/01-foundation.md) | ০০১–০৩০ | portfolio, সংখ্যাসহ সিভি, যাচাই করা ১৫টা নাম, রেফারেলের মানচিত্র, টাকার ব্যবস্থা, design আর frontend-এর ছাঁচের কার্ড, ৬ STAR। আবেদন দিন ০১৪ ও ০২৮-এ |
-| [docs/02-design-template.md](docs/02-design-template.md) | ০৩১–০৬০ | `srdtube`-এর ইংরেজি design doc, URL shortener · rate limiter · srdtube ৪৫′-এ মুখে, scoping, চারটা ধারণা ডক ছাড়া, story → signal; রিমোট DSA শুরু দিন ০৫০-এ। শেষে: ৪টা আবেদন |
+| [docs/02-design-template.md](docs/02-design-template.md) | ০৩১–০৬০ | `srdtube`-এর ইংরেজি design doc, URL shortener · rate limiter · srdtube ৪৫′-এ মুখে, scoping, চারটা ধারণা ডক ছাড়া, story → signal; DSA mock #১ দিন ০৩৪-এ। শেষে: ৪টা আবেদন |
 | [docs/03-systems.md](docs/03-systems.md) | ০৬১–০৯০ · dip | chat, news feed, file storage — লেখা আর ৪৫′-এ বলা; infinite feed আর autocomplete UI; ফানেলের প্রথম দেখা। শেষে: ৬টা আবেদন |
-| [docs/04-recruiter-and-dsa.md](docs/04-recruiter-and-dsa.md) | ০৯১–১২০ · dip | recruiter call-এর ছয় প্রশ্ন (level, রিমোট কীভাবে), offer-এর সীমা, গ্লোবাল DSA শুরু দিন ০৯৯-এ, mock #১ (DSA), ride sharing আর video streaming-এর doc। শেষে: ৮টা আবেদন |
+| [docs/04-recruiter-and-dsa.md](docs/04-recruiter-and-dsa.md) | ০৯১–১২০ · dip | recruiter call-এর ছয় প্রশ্ন (level, রিমোট কীভাবে), offer-এর সীমা, DSA mock #৪ দিন ১১৮-এ, mock #১ (DSA), ride sharing আর video streaming-এর doc। শেষে: ৮টা আবেদন |
 | [docs/05-rounds.md](docs/05-rounds.md) | ১২১–১৫০ · dip | এলোমেলো সিস্টেম ৪৫′-এ, এলোমেলো UI ২০′-এ, signal ধরে story, mock #২ (system design), দশম আবেদন দিন ১৪০-এ, আট সিস্টেমের এক পাতা |
 | [docs/06-three-processes.md](docs/06-three-processes.md) | ১৫১–১৮০ · dip | নোট থেকে সিলেবাস, mock #৩ (behavioral), ফানেলের শেষ রায়, রিমোট offer-এর চেকলিস্ট, mock #৪ (৯০′-এর পুরো loop), ইংরেজির তুলনা। শেষে: ১০ আবেদন, ৩ process |
 
