@@ -10,7 +10,7 @@ export const SITE: {
   emoji: string;
   description: string;
   storagePrefix: string;
-  defaultStart: string | null;
+  suggestedStart: string | null;
 } = {
   title: "৬ মাসে গ্লোবাল কোম্পানি",
   short: "৬ মাসে গ্লোবাল বদল",
@@ -19,6 +19,6 @@ export const SITE: {
     "দেশে থেকে big tech মানের কোম্পানিতে রিমোট — ১০টা আবেদন আর ৩টা সম্পূর্ণ interview process, ১৮০ দিন, প্রতিদিনের কাজ, ঝালাই আর learning to learn-এর নীতিতে।",
   /** localStorage key-এর prefix — তিন plan-এর progress আলাদা থাকে */
   storagePrefix: "sgc6",
-  /** এই plan কবে শুরু হবে জানা নেই — প্রথমবার খুললে জিজ্ঞেস করে */
-  defaultStart: null,
+  /** শুরুর তারিখ না থাকলে প্রস্তাব — এই plan কবে শুরু হবে জানা নেই */
+  suggestedStart: null,
 };
